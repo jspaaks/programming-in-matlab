@@ -1,0 +1,111 @@
+\chapter{Control flow}
+\thispagestyle{fancy}
+
+A boulder lying on a slope will slide downslope if the friction between the boulder and the hillslope decreases below a certain threshold value. Mass wasting of this type can occur when surface friction is lowered by rainfall:
+ 
+\lstinputlisting[caption={},nolol,numbers=none]{./../m/rockfall.m}
+
+\noindent This is an example of how you can let \MATLAB{} decide which parts of a program should be evaluated: depending on the outcome of the test {\tt friction < threshold}, either the {\tt if...else} bit or the {\tt else...end} bit is evaluated. Besides the dynamic decision-making capability of the {\tt if}-{\tt else}-{\tt end} structure, \MATLAB{} provides code structures which allow for the repeated execution of a set of commands (a so-called `loop'\index{loop}). Termination of the loop can be because it is set to run a predetermined number of times, or because a certain condition is satisfied. The former is known as a {\tt for}-loop\index{for-loop@\texttt{for}-loop}, while the latter is known as a {\tt while}-loop}\index{while-loop@\texttt{while}-loop}. {\tt if}-{\tt else}-{\tt end} structures, {\tt for}-loops and {\tt while}-loops are examples of `control flow' structures\index{control flow}. Because these constructions often encompass multiple \MATLAB{} commands, they are mostly used in scripts and functions (as opposed to at the prompt).
+
+
+\section{for-loops}
+\label{sec:for-loops}
+\index{loop!for}
+\index{for@\texttt{for}}
+\index{end@\texttt{end}}
+{\tt for}-loops allow a group of commands to be repeated a fixed, predetermined number of times. The general form of a for-loop is:
+\lstinputlisting[nolol,numbers=none]{./../m/general_for_loop_structure.m}\label{ind:rowvector}
+\begin{action}
+Execute the following (in a new script):
+\lstinputlisting[nolol,numbers=none]{./../m/simple_for_loop.m}
+\end{action}
+\noindent Be aware that the above is equal to the so-called `vectorized'\index{vectorization}\label{ind:vectorization} way of programming: 
+\lstinputlisting[nolol,numbers=none]{./../m/simple_for_loop_vectorized.m}
+\noindent It is up to you to decide which form is better suited for specific cases. Be aware that \MATLAB{} performs its calculations faster if you use vectorization. Loops, however, are usually easier to understand. Also, some problems can not be adequately handled by vectorized programming. 
+
+\subsection{Malthusian population growth}
+
+One of the first researchers into population dynamics was Thomas Malthus\footnote{\url{http://en.wikipedia.org/wiki/Thomas_Malthus}}, (1766--1834). In his `Essay on the Principle of Population' (1798) Malthus observed that in nature plants and animals produce far more offspring than can survive, and that Man too is capable of overproducing if left unchecked. This exponential growth is known as Malthusian population growth; the rate at which a population grows is directly proportional to its size.
+
+Pierre-Fran\c cois Verhulst\footnote{\url{http://en.wikipedia.org/wiki/Pierre_Fran\%C3\%A7ois_Verhulst}} (1804--1849) was a Belgian mathematician who generalized the Malthusian model by allowing for the fact that populations encounter internal competition as they grow within a closed environment, and this competition has a tendency to retard the rate of growth. His idea says that while the population will continue to grow as time goes on, the rate at which it does this growing gets smaller. This is a slightly more realistic approach than that of Malthus, whose idea actually predicts that populations will grow exponentially, and without bound --a prospect that defies physical limitations. 
+
+The script m-file `\textbackslash{}pim\_files\textbackslash{}ch08\_control\_flow\textbackslash{}malthus.m' contains part of the program that calculates population size over time based on the ideas of Malthus and Verhulst. The exponential growth and competitive growth decline are expressed in Equations~\ref{eq:verhulst-term}--\ref{eq:malthus-verhulst}:
+
+
+\begin{equation}
+\label{eq:verhulst-term}
+V=1-\frac{P_{now}}{P_{max}}
+\end{equation}
+\begin{equation}
+\label{eq:malthus-verhulst}
+P_{next}=P_{now}+r*P_{now}*V
+\end{equation}
+where $V$ is the Verhulst term, $P_{max}$ is the maximum sustainable population size, $P_{now}$ is the current population size, $P_{next}$ is the population size for the next time step, and $r$ is the growth factor.
+
+\begin{action}
+Complete the Verhulst term in `malthus.m'.
+\end{action}
+\begin{action}
+Study `malthus.m' and identify which role each variable has. Next, implement Equation \ref{eq:malthus-verhulst} in the for-loop.
+\end{action}
+\begin{action}
+In Section \ref{sec:for-loops}, we saw that some problems can be vectorized. Is this such a problem? Why (not)?
+\end{action}
+
+
+\section{while-loops}
+\label{sec:while-loops}
+\index{loop!while}
+\index{while@\texttt{while}}
+\index{end@\texttt{end}}
+
+As opposed to a {\tt for}-loop that evaluates a group of commands a fixed number of times, a {\tt while}-loop evaluates a group of statements as long as a certain condition is true. The general form of a {\tt while}-loop is:
+\lstinputlisting[nolol,numbers=none]{./../m/general_while_loop_structure.m}
+
+\noindent The assignment statements between the {\tt while} and {\tt end} statements are executed as long as the {\tt expression} is true. This implies that the {\tt while}-loop can only be terminated if one of the variables in {\tt expression} is changed \textit{inside} the {\tt while}-loop.
+
+\begin{action}
+Study the example script m-file in \lstlistingname~\ref{list:example-while}:
+\end{action}
+\lstinputlisting[caption={Example of a {\tt while}-loop}, label=list:example-while,numbers=none]{./../m/example_while.m}
+
+\noindent Note that the variable {\tt Steps} needs to be converted from numerical value (double array) to text (char array) by the {\tt num2str(Steps)}\index{num2str@\texttt{num2str}} command to allow for concatenation with the character array {\tt \squote{Maximum value reached. Steps = }}. After that, the resulting character array can be output to the command window by the function {\tt disp}\index{disp@\texttt{disp}} (see \MATLAB{} documentation). 
+
+\hintbox{By clicking in the command window and simultaneously pressing Ctrl-c, you can stop calculation anytime.}
+
+
+\begin{action}
+Write a script m-file with a {\tt while}-loop that never terminates.
+\end{action}
+
+\begin{action}
+How would you characterize the difference between a {\tt for}-loop and a {\tt while}-loop? When would you use one or the other? Give an example of each.
+\end{action}
+
+
+
+\hintbox{One of the most common mistakes concerning control flow is the never ending {\tt while}-loop. A helpful rule of thumb is that the variables which are in the {\tt expression} have to be changed inside the {\tt while}-loop, otherwise it can never terminate.}
+
+
+\section{if-else-end}
+\index{if@\texttt{if}}
+\index{else@\texttt{else}}
+\index{end@\texttt{end}}
+
+
+Many times, sequences of commands must be conditionally evaluated based on a relational test. Recall our first control flow example:
+\lstinputlisting[caption={},nolol,numbers=none]{./../m/rockfall.m}
+
+\noindent Based on the outcome of the relational test {\tt friction < threshold}, either the command sequence between the {\tt if} and {\tt else} statements is called, or the command sequence between the {\tt else} and {\tt end} statements is called.
+
+\vspace{1em}
+
+\noindent When there are three or more alternatives, the {\tt if-}{\tt else}-{\tt end} construction takes the form: 
+\lstinputlisting[caption={},nolol,numbers=none]{./../m/general_elseif.m}\index{elseif@\texttt{elseif}}
+
+\noindent In this construction, only the commands associated with the first true expression encountered are evaluated; all following relational expressions are not tested, and the rest of the {\tt if-}{\tt else}-{\tt end} construction is skipped. Furthermore, the final {\tt else} command may or may not appear.
+
+\vspace{1em}
+\noindent An application of {\tt if-}{\tt else}-{\tt end} will appear in the next chapter.
+ 
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>
+demo_ge_imagesc.kml
+</name>
+<Placemark id="colorbar">
+<name>
+ge_colorbar
+</name>
+
+<visibility>
+1
+</visibility>
+
+<description>
+<![CDATA[<TABLE border=1 bgcolor=#FFFFFF>
+<TR><TD bgcolor=#990000>&nbsp;</TD><TD bgcolor=#FFFFFF>+60.8500 to +64.0000</TR>
+<TR><TD bgcolor=#CC0000>&nbsp;</TD><TD bgcolor=#FFFFFF>+57.7000 to +60.8500</TR>
+<TR><TD bgcolor=#FF0000>&nbsp;</TD><TD bgcolor=#FFFFFF>+54.5500 to +57.7000</TR>
+<TR><TD bgcolor=#FF3200>&nbsp;</TD><TD bgcolor=#FFFFFF>+51.4000 to +54.5500</TR>
+<TR><TD bgcolor=#FF6500>&nbsp;</TD><TD bgcolor=#FFFFFF>+48.2500 to +51.4000</TR>
+<TR><TD bgcolor=#FF9800>&nbsp;</TD><TD bgcolor=#FFFFFF>+45.1000 to +48.2500</TR>
+<TR><TD bgcolor=#FFCB00>&nbsp;</TD><TD bgcolor=#FFFFFF>+41.9500 to +45.1000</TR>
+<TR><TD bgcolor=#FFFE00>&nbsp;</TD><TD bgcolor=#FFFFFF>+38.8000 to +41.9500</TR>
+<TR><TD bgcolor=#CEFF31>&nbsp;</TD><TD bgcolor=#FFFFFF>+35.6500 to +38.8000</TR>
+<TR><TD bgcolor=#9BFF64>&nbsp;</TD><TD bgcolor=#FFFFFF>+32.5000 to +35.6500</TR>
+<TR><TD bgcolor=#68FF97>&nbsp;</TD><TD bgcolor=#FFFFFF>+29.3500 to +32.5000</TR>
+<TR><TD bgcolor=#35FFCA>&nbsp;</TD><TD bgcolor=#FFFFFF>+26.2000 to +29.3500</TR>
+<TR><TD bgcolor=#02FFFD>&nbsp;</TD><TD bgcolor=#FFFFFF>+23.0500 to +26.2000</TR>
+<TR><TD bgcolor=#00CFFF>&nbsp;</TD><TD bgcolor=#FFFFFF>+19.9000 to +23.0500</TR>
+<TR><TD bgcolor=#009CFF>&nbsp;</TD><TD bgcolor=#FFFFFF>+16.7500 to +19.9000</TR>
+<TR><TD bgcolor=#0069FF>&nbsp;</TD><TD bgcolor=#FFFFFF>+13.6000 to +16.7500</TR>
+<TR><TD bgcolor=#0036FF>&nbsp;</TD><TD bgcolor=#FFFFFF>+10.4500 to +13.6000</TR>
+<TR><TD bgcolor=#0003FF>&nbsp;</TD><TD bgcolor=#FFFFFF>+7.3000 to +10.4500</TR>
+<TR><TD bgcolor=#0000D0>&nbsp;</TD><TD bgcolor=#FFFFFF>+4.1500 to +7.3000</TR>
+<TR><TD bgcolor=#00009D>&nbsp;</TD><TD bgcolor=#FFFFFF>+1.0000 to +4.1500</TR>
+</TABLE>]]>
+</description>
+	<Style><IconStyle><scale>1</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href></Icon></IconStyle><ListStyle></ListStyle></Style><Point id="poly_colorbar">
+<altitudeMode>
+clampToGround
+</altitudeMode>
+<extrude>
+1
+</extrude><tessellate>
+1
+</tessellate>
+<coordinates>
+30,10,1
+</coordinates>
+
+</Point>
+
+</Placemark>
+<GroundOverlay id="groundoverlay">
+<name>
+ge_imagesc
+</name>
+<description>
+<![CDATA[]]>
+</description>
+<color>
+ffffffff
+</color>
+<visibility>
+1
+</visibility>
+<extrude>0</extrude>
+<altitude>1000000.00</altitude><altitudeMode>absolute</altitudeMode><Icon>
+<href>
+flujet.png
+</href>
+<viewBoundScale>
+1
+</viewBoundScale>
+</Icon>
+<LatLonAltBox>
+<north>50.050125</north><south>9.949875</south><east>30.083612</east><west>-20.083612</west><minAltitude>1000000.00</minAltitude><maxAltitude>1000000.00</maxAltitude>
+</LatLonAltBox>
+</GroundOverlay>
+
+</Document>
+</kml>

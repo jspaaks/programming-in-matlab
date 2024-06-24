@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>
+De Kooy airfield
+</name>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<name>barb=&#0039;D:\code.google.com\googleearth\kml\daes\006nhemi02250275kts.dae&#0039;</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>relativeToGround</altitudeMode>
+<Location>
+   <longitude>4.7786</longitude>
+   <latitude>52.9213</latitude>
+   <altitude>100</altitude>
+</Location>
+<Orientation>
+   <heading>250.0169</heading>
+   <tilt>0</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>5000</x>
+   <y>5000</y>
+   <z>5000</z>
+</Scale>
+<Link>
+   <href>D:\code.google.com\googleearth\kml\daes\006nhemi02250275kts.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+
+</Document>
+</kml>

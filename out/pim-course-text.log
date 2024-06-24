@@ -1,0 +1,2135 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2010.2.17)  23 FEB 2010 10:35
+entering extended mode
+**pim-course-text.tex
+(pim-course-text.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2008-06-18, ngerman-x-2008-06-18, french, loaded.
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\book.cls"
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\bk10.clo"
+File: bk10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\fancybox\fancybox.sty"
+Package: fancybox 2000/09/19 1.3
+
+Style option: `fancybox' v1.3 <2000/09/19> (tvz)
+\@fancybox=\box26
+\shadowsize=\dimen103
+\@Sbox=\box27
+\do@VerbBox=\toks15
+\the@fancyput=\toks16
+\this@fancyput=\toks17
+\EndVerbatimTokens=\toks18
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) ("C:\Program Files\MiKTeX 2.7\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2002/01/22 v2.2d
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2008/12/26 v6.78n Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2007/12/12 v1.6 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode not detected.
+)
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\ifxetex\ifxetex.sty"
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\oberdiek\hycolor.sty"
+Package: hycolor 2008/09/08 v1.4 Code for color options of hyperref/bookmark (H
+O)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\oberdiek\xcolor-patch.sty"
+Package: xcolor-patch 2008/09/08 xcolor patch
+))
+\@linkdim=\dimen106
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2008/12/26 v6.78n Hyperref: PDFDocEncoding definition (HO)
+)
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2007/10/18 v3.0 Keyval support for LaTeX options (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 2796.
+Package hyperref Info: Hyper figures OFF on input line 2907.
+Package hyperref Info: Link nesting OFF on input line 2912.
+Package hyperref Info: Hyper index ON on input line 2915.
+Package hyperref Info: Plain pages OFF on input line 2922.
+Package hyperref Info: Backreferencing OFF on input line 2927.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3117.
+("C:\Program Files\MiKTeX 2.7\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3354.
+
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\bitset.sty"
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\intcalc.sty"
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\bigintcalc.sty"
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2007/12/12 v0.3 LuaTeX support for pdfTeX utility functions
+ (HO)
+Package pdftexcmds Info: LuaTeX not detected on input line 139.
+)))
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2007/09/29 v1.3 Key value parser with default handler suppor
+t (HO)
+)
+\Fld@menulength=\count90
+\Field@Width=\dimen107
+\Fld@charsize=\dimen108
+\Field@toks=\toks20
+Package hyperref Info: Hyper figures OFF on input line 4271.
+Package hyperref Info: Link nesting OFF on input line 4276.
+Package hyperref Info: Hyper index ON on input line 4279.
+Package hyperref Info: backreferencing OFF on input line 4286.
+Package hyperref Info: Link coloring ON on input line 4289.
+Package hyperref Info: Link coloring with OCG OFF on input line 4296.
+Package hyperref Info: PDF/A mode OFF on input line 4301.
+
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count91
+\c@Item=\count92
+\c@Hfootnote=\count93
+)
+*hyperref using default driver hdvips*
+("C:\Program Files\MiKTeX 2.7\tex\latex\hyperref\hdvips.def"
+File: hdvips.def 2008/12/26 v6.78n Hyperref driver for dvips
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\hyperref\pdfmark.def"
+File: pdfmark.def 2008/12/26 v6.78n Hyperref definitions for pdfmark specials
+\pdf@docset=\toks21
+\pdf@box=\box28
+\pdf@toks=\toks22
+\pdf@defaulttoks=\toks23
+\Fld@listcount=\count94
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\calc.sty"
+Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count95
+\calc@Bcount=\count96
+\calc@Adimen=\dimen109
+\calc@Bdimen=\dimen110
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count97
+\calc@Cskip=\skip45
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\geometry\geometry.sty"
+Package: geometry 2008/12/21 v4.2 Page Geometry
+\Gm@cnth=\count98
+\Gm@cntv=\count99
+\c@Gm@tempcnt=\count100
+\Gm@bindingoffset=\dimen111
+\Gm@wd@mp=\dimen112
+\Gm@odd@mp=\dimen113
+\Gm@even@mp=\dimen114
+\Gm@dimlist=\toks24
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.7\tex\latex\marvosym\marvosym.sty"
+Package: marvosym 2006/05/11 v2.1 Martin Vogel's Symbols font definitions
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\tocloft\tocloft.sty"
+Package: tocloft 2009/09/04 v2.3d parameterised ToC, etc., typesetting
+
+
+Package tocloft Note: The document has chapter divisions.
+
+\cftparskip=\skip55
+\cftbeforetoctitleskip=\skip56
+\cftaftertoctitleskip=\skip57
+\cftbeforepartskip=\skip58
+\cftpartnumwidth=\skip59
+\cftpartindent=\skip60
+\cftbeforechapskip=\skip61
+\cftchapindent=\skip62
+\cftchapnumwidth=\skip63
+\cftbeforesecskip=\skip64
+\cftsecindent=\skip65
+\cftsecnumwidth=\skip66
+\cftbeforesubsecskip=\skip67
+\cftsubsecindent=\skip68
+\cftsubsecnumwidth=\skip69
+\cftbeforesubsubsecskip=\skip70
+\cftsubsubsecindent=\skip71
+\cftsubsubsecnumwidth=\skip72
+\cftbeforeparaskip=\skip73
+\cftparaindent=\skip74
+\cftparanumwidth=\skip75
+\cftbeforesubparaskip=\skip76
+\cftsubparaindent=\skip77
+\cftsubparanumwidth=\skip78
+\cftbeforeloftitleskip=\skip79
+\cftafterloftitleskip=\skip80
+\cftbeforefigskip=\skip81
+\cftfigindent=\skip82
+\cftfignumwidth=\skip83
+\c@lofdepth=\count101
+\c@lotdepth=\count102
+\cftbeforelottitleskip=\skip84
+\cftafterlottitleskip=\skip85
+\cftbeforetabskip=\skip86
+\cfttabindent=\skip87
+\cfttabnumwidth=\skip88
+) ("C:\Program Files\MiKTeX 2.7\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\makeidx.sty"
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\listings.sty"
+\lst@mode=\count103
+\lst@gtempboxa=\box29
+\lst@token=\toks25
+\lst@length=\count104
+\lst@currlwidth=\dimen115
+\lst@column=\count105
+\lst@pos=\count106
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count107
+\lst@lineno=\count108
+\lst@maxwidth=\dimen118
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count109
+\lst@skipnumbers=\count110
+\lst@framebox=\box30
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\mcode\mcode.sty"
+-- Package: `mcode' 1.6 <2010/01/14> --
+Package: mcode 2010/01/14 1.6
+ - settings optimized for display (colour formating)
+ - framed listings
+) ("C:\Program Files\MiKTeX 2.7\tex\latex\setspace\setspace.sty"
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) ("C:\Program Files\MiKTeX 2.7\tex\latex\fancyvrb\fancyvrb.sty"
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count111
+\FV@InFile=\read2
+\FV@TabBox=\box31
+\c@FancyVerbLine=\count112
+\FV@StepNumber=\count113
+\FV@OutFile=\write4
+) ("C:\Program Files\MiKTeX 2.7\tex\latex\caption\caption.sty"
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+ ("C:\Program Files\MiKTeX 2.7\tex\latex\caption\caption3.sty"
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@ContinuedFloat=\count114
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\array.sty"
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen125
+\extrarowheight=\dimen126
+\NC@list=\toks26
+\extratabsurround=\skip89
+\backup@length=\skip90
+)
+\TX@col@width=\dimen127
+\TX@old@table=\dimen128
+\TX@old@col=\dimen129
+\TX@target=\dimen130
+\TX@delta=\dimen131
+\TX@cols=\count115
+\TX@ftn=\toks27
+)
+\@indexfile=\write5
+
+Writing index file pim-course-text.idx
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\hyp.tex)
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.75 \newcommand{\MATLAB}[]{\textsc{MATLAB}}
+                                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+\c@project=\count116
+\cftbeforeprojectskip=\skip91
+\cftprojectindent=\skip92
+\cftprojectnumwidth=\skip93
+\c@expdepth=\count117
+\cftbeforeexptitleskip=\skip94
+\cftafterexptitleskip=\skip95
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.120 }
+       % projectfooter
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.162 }
+       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\out\pim-course-text.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 165.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 165.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 165.
+Package hyperref Info: Link coloring ON on input line 165.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\hyperref\nameref.sty"
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\oberdiek\refcount.sty"
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count118
+)
+LaTeX Info: Redefining \ref on input line 165.
+LaTeX Info: Redefining \pageref on input line 165.
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\out\pim-course-text.out)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\out\pim-course-text.out)
+\@outlinefile=\write6
+\AtBeginShipoutBox=\box32
+*geometry auto-detecting driver*
+*geometry detected driver: dvips*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 142.26378pt, 398.3386pt, 56.9055pt
+v-parts: 113.81102pt, 588.97205pt, 142.26378pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: dvips
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  398.3386pt
+\textheight 588.97205pt
+\oddsidemargin  69.99379pt
+\evensidemargin -15.36449pt
+\topmargin  11.47354pt
+\headheight 12.0pt
+\headsep    18.06749pt
+\footskip   113.81102pt
+\marginparwidth 115.0pt
+\marginparsep   7.0pt
+\columnsep  10.0pt
+\skip\footins  56.9055pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+\c@lstlisting=\count119
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\title.tex
+File: ./../eps/title-text.eps Graphic file (type eps)
+
+<./../eps/title-text.eps>
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+File: ./../eps/matlab-about.eps Graphic file (type eps)
+
+<./../eps/matlab-about.eps>
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 4--15
+[]$[]$ $[]$ 
+ []
+
+File: ./../eps/logo.eps Graphic file (type eps)
+<./../eps/logo.eps> [1
+
+
+
+])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\out\pim-course-text.toc
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 23.
+
+[3])
+\tf@toc=\write7
+ [4]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\out\pim-course-text.exp)
+\tf@exp=\write8
+[5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\out\pim-course-text.lot)
+\tf@lot=\write9
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\introductio
+n.tex
+Chapter 1.
+[1
+
+
+])
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\getting-sta
+rted.tex [2]
+Chapter 2.
+File: ./../eps/browse-for-folder.eps Graphic file (type eps)
+<./../eps/browse-for-folder.eps>
+! Missing } inserted.
+<inserted text> 
+                }
+l.27 ...t directory when executing your commands.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.27 ...t directory when executing your commands.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmtt on input line 33.
+
+LaTeX Font Info:    No file OMLcmtt.fd. on input line 33.
+
+LaTeX Font Warning: Font shape `OML/cmtt/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textgreater' on input line 33.
+
+[3
+
+] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+mvs on input line 112.
+("C:\Program Files\MiKTeX 2.7\tex\latex\marvosym\umvs.fd")
+! Missing } inserted.
+<inserted text> 
+                }
+l.112 ...ation of letters, digits or underscores.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.112 ...ation of letters, digits or underscores.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+[5]
+File: ./../eps/gui.eps Graphic file (type eps)
+ <./../eps/gui.eps>
+! Missing } inserted.
+<inserted text> 
+                }
+l.127 ...ory} item in the \guitext{Desktop} menu.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.127 ...ory} item in the \guitext{Desktop} menu.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6])
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\arrays.tex
+[7]
+Chapter 3.
+! Missing } inserted.
+<inserted text> 
+                }
+l.16 ... array that you want to know the size of.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.16 ... array that you want to know the size of.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.24 ...when it contains more than one character.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.24 ...when it contains more than one character.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\OT1/cmr/m/n/10 Floating
+ []
+
+Missing character: There is no – in font cmtt10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\OT1/cmr/m/n/10 (+/-) Frac-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]|\OT1/cmr/m/n/10 Character
+ []
+
+[8
+
+]
+! Missing } inserted.
+<inserted text> 
+                }
+l.58 ...d semicolons ({\tt;}) are row delimiters.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.58 ...d semicolons ({\tt;}) are row delimiters.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[9]
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 91.
+
+ ("C:\Program Files\MiKTeX 2.7\tex\latex\base\ts1cmtt.fd"
+File: ts1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+! Missing } inserted.
+<inserted text> 
+                }
+l.150 ... are used to assign values to the array.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.150 ... are used to assign values to the array.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+[10]
+Missing character: There is no – in font cmr10!
+File: ./../eps/demo.eps Graphic file (type eps)
+ <./../eps/demo.eps> [11] [12]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.304 \noindent \begin{array}{cccccccccccccl}
+                                             
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.307 \end{array}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (12.27693pt too wide) in paragraph at lines 304--308
+$[]$ 
+ []
+
+[13] [14]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.418 \project{Columbia River}
+                              
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.418 \project{Columbia River}
+                              
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+File: ./../eps/folder-structure.eps Graphic file (type eps)
+<./../eps/folder-structure.eps>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 438.
+
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 438.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.442 }
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.442 }
+       
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
+
+ []
+
+[15]
+! Missing } inserted.
+<inserted text> 
+                }
+l.461 }
+       %close hintbox
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.461 }
+       %close hintbox
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+File: ./../eps/plotxy.eps Graphic file (type eps)
+<./../eps/plotxy.eps>
+File: ./../eps/ploty.eps Graphic file (type eps)
+ <./../eps/ploty.eps> [16]
+! Missing } inserted.
+<inserted text> 
+                }
+l.538 ...ookfor}\index{lookfor@\texttt{lookfor}}.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.538 ...ookfor}\index{lookfor@\texttt{lookfor}}.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+
+ []
+
+[17]
+Underfull \hbox (badness 4391) in paragraph at lines 582--583
+\OT1/cmr/m/n/10 which means: save the con-tent of the vari-able Columbia in the
+ bi-nary file
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.584 \projectfooter
+                    {}
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
+
+ []
+
+)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\array-ops.t
+ex [18]
+Chapter 4.
+
+Underfull \hbox (badness 1205) in paragraph at lines 9--9
+[]\OT1/cmr/bx/sc/14.4 Creating spe-cial MATLAB ar-rays using util-ity
+ []
+
+[19
+
+]
+Missing character: There is no – in font cmr10!
+ [20]
+! Missing } inserted.
+<inserted text> 
+                }
+l.149 ...y time a variable name is not specified.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.149 ...y time a variable name is not specified.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+[21]
+! Missing } inserted.
+<inserted text> 
+                }
+l.203 ...t:\newline\vspace{0.5em}{\tt{}std(X(:))}}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.203 ...t:\newline\vspace{0.5em}{\tt{}std(X(:))}}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+[22]
+! Missing } inserted.
+<inserted text> 
+                }
+l.227 ...e functions to see how you can use them.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.227 ...e functions to see how you can use them.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.229 ...tbox{Give your variables sensible names!}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.229 ...tbox{Give your variables sensible names!}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.236 ...tistics of the fieldwork site Luxembourg}
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.236 ...tistics of the fieldwork site Luxembourg}
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.250 \projectfooter
+                    {}
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+[23] [24]
+! Missing } inserted.
+<inserted text> 
+                }
+l.342 ...he condition, not the values themselves.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.342 ...he condition, not the values themselves.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 341--343
+\OT1/cmr/m/n/10 This means that the cri-te-rion \OT1/cmtt/m/n/10 (B==4) \OT1/cm
+r/m/n/10 is sat-is-fied at \OT1/cmtt/m/n/10 B(1,1) \OT1/cmr/m/n/10 and at \OT1/
+cmtt/m/n/10 B(2,3)\OT1/cmr/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--343
+
+ []
+
+[25]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.354 \project{Evapotranspiration at Florac}
+                                            
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.354 \project{Evapotranspiration at Florac}
+                                            
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 360--361
+[]\OT1/cmr/m/n/10 Clear the workspace and load the file `lan-duse[]class.txt' l
+o-cated in the folder
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.402 ... do things can really make a difference!}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.402 ... do things can really make a difference!}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+[26]
+! Missing } inserted.
+<inserted text> 
+                }
+l.444 }
+       %hintbox
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.444 }
+       %hintbox
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.454 }
+       %hintbox
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.454 }
+       %hintbox
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[27]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.475 \projectfooter
+                    {}
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
+ []
+
+)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\scripts.tex
+[28]
+Chapter 5.
+! Missing } inserted.
+<inserted text> 
+                }
+l.14 ...ignored by \MATLAB{} during calculations.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.14 ...ignored by \MATLAB{} during calculations.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 18.
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\florac.m)
+! Missing } inserted.
+<inserted text> 
+                }
+l.21 ..., program, and interpret at a later time.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.21 ..., program, and interpret at a later time.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\general_structure.m)
+[29
+
+] [30]
+! Missing } inserted.
+<inserted text> 
+                }
+l.34 ...ms in the \MATLAB{} editor.} \end{spacing}
+                                                  }}\vspace{1em}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+l.35 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+File: ./../eps/run-button.eps Graphic file (type eps)
+<./../eps/run-button.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+! Missing } inserted.
+<inserted text> 
+                }
+l.106 }
+       %end hintbox
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.106 }
+       %end hintbox
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.109 ...{Lead pollution in the Geul river valley}
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.109 ...{Lead pollution in the Geul river valley}
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \vbox (badness 4454) has occurred while \output is active []
+
+ [32]
+[33]
+! Undefined control sequence.
+l.144 ...ea in m$^2$. (The correct answer is \euro
+                                                  ~23719578).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.154 \noindent Now, create the \textul
+                                       {character} array:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[34]
+File: ./../eps/logical.eps Graphic file (type eps)
+ <./../eps/logical.eps> [35]
+! Missing } inserted.
+<inserted text> 
+                }
+l.233 ...rmed if the arrays are of the same size.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.233 ...rmed if the arrays are of the same size.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+[36]
+Missing character: There is no – in font cmtt10!
+File: ./../eps/geul.eps Graphic file (type eps)
+ <./../eps/geul.eps>
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.288 \projectfooter
+                    
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\math-functi
+ons.tex
+Underfull \hbox (badness 10000) in paragraph at lines 288--1
+
+ []
+
+[37] [38]
+Chapter 6.
+[39
+
+]
+! Missing } inserted.
+<inserted text> 
+                }
+l.99 \end{action}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\pim_files\ch06_math\plot
+_example.m))
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\functions.t
+ex [40] [41]
+Chapter 7.
+[42
+
+]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\function_definitions.m
+)
+! Missing } inserted.
+<inserted text> 
+                }
+l.25 ...rguments!output arguments}, respectively.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.25 ...rguments!output arguments}, respectively.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\OT1/cmss/m/n/8 Code Snip-pet 7.2: |\OT1/cmr/m/n/8 Con-tents of the file
+ []
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\statsm.m) [43]
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]\OT1/cmss/m/n/8 Code Snip-pet 7.3: |\OT1/cmr/m/n/8 Con-tents of the file
+ []
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\stats_lux.m)
+! Missing } inserted.
+<inserted text> 
+                }
+l.95 \hrule \vspace{2em} \end{minipage}
+                                       }
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+l.95 \hrule \vspace{2em} \end{minipage}}
+                                        
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]\OT1/cmss/m/n/8 Code Snip-pet 7.4: |\OT1/cmr/m/n/8 Con-tents of the file
+ []
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\slope_dir_script.m)
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\OT1/cmss/m/n/8 Code Snip-pet 7.5: |\OT1/cmr/m/n/8 Con-tents of the file
+ []
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\conv_deg2rad.m)
+[46])
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\control-flo
+w.tex [47]
+Chapter 8.
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\rockfall.m)
+! Too many }'s.
+l.8 ... the latter is known as a {\tt while}-loop}
+                                                  \index{while-loop@\texttt{...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\general_for_loop_struc
+ture.m)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\simple_for_loop.m)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\simple_for_loop_vector
+ized.m) [48
+
+] [49]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\general_while_loop_str
+ucture.m)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\example_while.m)
+! Missing } inserted.
+<inserted text> 
+                }
+l.74 ...Ctrl-c, you can stop calculation anytime.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.74 ...Ctrl-c, you can stop calculation anytime.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.87 ...}-loop, otherwise it can never terminate.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.87 ...}-loop, otherwise it can never terminate.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+[50] (C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\rockfall.m)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\general_elseif.m))
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\debugging.t
+ex [51]
+Chapter 9.
+[52
+
+]
+File: ./../eps/dock-editor.eps Graphic file (type eps)
+ <./../eps/dock-editor.eps>
+! Missing } inserted.
+<inserted text> 
+                }
+l.72 ...hould always make sure that you saved it.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.72 ...hould always make sure that you saved it.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[53]
+File: ./../eps/set-breakpoint.eps Graphic file (type eps)
+ <./../eps/set-breakpoint.eps> [54]
+File: ./../eps/run-to-breakpoint.eps Graphic file (type eps)
+ <./../eps/run-to-breakpoint.eps>
+! Missing } inserted.
+<inserted text> 
+                }
+l.98 ...sh} to see the changes to your variables.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.98 ...sh} to see the changes to your variables.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.121 }
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.121 }
+       
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+File: ./../eps/breakpoint-white-arrow.eps Graphic file (type eps)
+<./../eps/breakpoint-white-arrow.eps> [56]
+! Missing } inserted.
+<inserted text> 
+                }
+l.155 ...especially helpful when debugging loops.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.155 ...especially helpful when debugging loops.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\infinity-et
+c.tex [57]
+Chapter 10.
+[58
+
+]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.46 \project{Aluminum toxicity}
+                                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.46 \project{Aluminum toxicity}
+                                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+[59] [60]
+File: ./../eps/aluminum-concentration.eps Graphic file (type eps)
+ <./../eps/aluminum-concentration.eps>)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\importing-d
+ata.tex [61]
+Chapter 11.
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang3.sty"
+File: lstlang3.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang3.sty"
+File: lstlang3.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstlang3.sty"
+File: lstlang3.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+! Too many }'s.
+l.33 ...sses} on page~\pageref{tab:array-classes}}
+                                                  ) in which you specify how...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\read_soildata.m)
+[62
+
+] [63] [64]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\knmi_dh.txt) [65])
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\more-projec
+ts.tex
+Chapter 12.
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.6 \project{Reisdorf river dam}
+                                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.6 \project{Reisdorf river dam}
+                                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\load_ebd.m) [66
+
+
+
+]
+! Missing } inserted.
+<inserted text> 
+                }
+l.38 ...ables can only occur before the `='-sign.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.38 ...ables can only occur before the `='-sign.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+! Undefined control sequence.
+l.47 ... bisection method is to define the \textul
+                                                  {initial} lower {\tt hLo} ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[67]
+File: ./../eps/water-levels.eps Graphic file (type eps)
+ <./../eps/water-levels.eps>
+File: ./../eps/lake-reisdorf-36-months.eps Graphic file (type eps)
+ <./../eps/lake-reisdorf-36-months.eps>
+[68] [69]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\generic_moviecapture.m
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+Underfull \vbox (badness 3930) has occurred while \output is active []
+
+ [71]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.136 \projectfooter
+                    {}
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.140 \project{Flow path}
+                         
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.140 \project{Flow path}
+                         
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+[72]
+File: ./../eps/valleydem-grid.eps Graphic file (type eps)
+ <./../eps/valleydem-grid.eps>
+Underfull \hbox (badness 1515) in paragraph at lines 209--209
+[]\OT1/cmss/m/n/8 Figure 12.3: |\OT1/cmr/m/n/8 The po-si-tion of \OT1/cmtt/m/n/
+8 H\OT1/cmr/m/n/8 , \OT1/cmtt/m/n/8 Dist\OT1/cmr/m/n/8 , \OT1/cmtt/m/n/8 Grad \
+OT1/cmr/m/n/8 within
+ []
+
+[73]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\outline_project7_flowp
+ath.m)
+File: ./../eps/flowpath-valleydem1.eps Graphic file (type eps)
+ <./../eps/flowpath-valleydem1.eps>
+Underfull \hbox (badness 5022) in paragraph at lines 247--247
+[]\OT1/cmss/m/n/8 Figure 12.4: |\OT1/cmr/m/n/8 Flow path de-rived from the DEM
+ []
+
+[74] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+[]|\OT1/cmr/bx/sc/10 Relational ex-pres-sion in
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.297 \projectfooter
+                    
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+[76]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.302 \project{Drainage pattern}
+                                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.302 \project{Drainage pattern}
+                                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+[]\OT1/cmr/m/n/10 Copy your script m-file from the pre-vi-ous project to the di
+-rec-tory
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 304--305
+\OT1/cmr/m/n/10 '\OMS/cmsy/m/n/10 n\OT1/cmr/m/n/10 chap12[]more[]projects\OMS/c
+msy/m/n/10 n\OT1/cmr/m/n/10 proj07[]drainpattern' and re-set your work folder a
+c-cord-ingly.
+ []
+
+File: ./../eps/drainpattern.eps Graphic file (type eps)
+<./../eps/drainpattern.eps>)
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\tex\chapters\toolboxes.t
+ex [77] [78]
+Chapter 13.
+
+Underfull \hbox (badness 6220) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 Besides the al-go-rithms that come with the \OT1/cmr/m/sc/10 MA
+TLAB \OT1/cmr/m/n/10 pro-gram, there is a
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 wealth of user-contributed pro-grams avail-able on the In-ter-n
+et. A good place
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 to look for such pro-grams, is the `File Ex-change' on the Math
+-works web-site
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 12--13
+\OT1/cmr/m/n/10 As you can see, there are many pro-grams avail-able that you ca
+n use for
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 12--13
+\OT1/cmr/m/n/10 free. In this chap-ter we will use the GoogleEarth Tool-box for
+ \OT1/cmr/m/sc/10 MATLAB[]\OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (15.43562pt too wide) in paragraph at lines 12--13
+[][][][][][]\OT1/cmr/m/n/10 .
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.14 \project{Google Earth Toolbox}
+                                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.14 \project{Google Earth Toolbox}
+                                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+[79
+
+] [80]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 74.
+
+LaTeX Font Info:    No file OMScmtt.fd. on input line 74.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 74.
+
+[81]
+File: ./../eps/googleearth-help-menu.eps Graphic file (type eps)
+ <./../eps/googleearth-help-menu.eps> [82]
+File: ./../eps/lesser-black-backed-gull.eps Graphic file (type eps)
+
+<./../eps/lesser-black-backed-gull.eps>
+File: ./../eps/larus-fuscus.eps Graphic file (type eps)
+ <./../eps/larus-fuscus.eps> [83]
+[84]
+! Missing } inserted.
+<inserted text> 
+                }
+l.170 ...buttons for playback of the KML objects.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\hintbox ...nipage} \vspace {2em} \end {minipage}}
+                                                   
+l.170 ...buttons for playback of the KML objects.}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+[85]
+Underfull \hbox (badness 5316) in paragraph at lines 213--213
+[]\OT1/cmss/m/n/8 Code Snip-pet 13.1: |\OT1/cmr/m/n/8 Con-tents of the file `ex
+-am-
+ []
+
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\m\example_ge_imagesc.m)
+[86]
+File: ./../eps/zinc-stein.eps Graphic file (type eps)
+ <./../eps/zinc-stein.eps>
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.268 \projectfooter
+                    
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+) [87] [88]
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\out\pim-course-text.ind
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9   \item \mid
+                , \hyperpage{35}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10   \item
+             \texttt{\textquotesingle}, \hyperpage{20}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[89
+
+
+]
+! Undefined control sequence.
+l.191   \item \textt
+                    {path}, \hyperpage{81}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[90] [91
+
+])
+(C:\Users\jhspaaks\projects\2010-programming-in-matlab\out\pim-course-text.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10549 strings out of 95291
+ 153332 string characters out of 1182892
+ 353580 words of memory out of 1500000
+ 13382 multiletter control sequences out of 110000
+ 19711 words of font info for 74 fonts, out of 3000000 for 5000
+ 63 hyphenation exceptions out of 8191
+ 42i,12n,69p,1500b,1851s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on pim-course-text.dvi (99 pages, 723036 bytes).

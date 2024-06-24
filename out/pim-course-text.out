@@ -1,0 +1,58 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [0][-]{chapter.2}{Getting started}{}
+\BOOKMARK [1][-]{section.2.1}{Creating your own work directory}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Arrays: scalars, vectors and matrices}{}
+\BOOKMARK [1][-]{section.3.1}{Data types and array classes}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Creating arrays}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{Manipulating arrays by their subscripts and indices}{chapter.3}
+\BOOKMARK [1][-]{section.3.4}{Matlab demonstrations}{chapter.3}
+\BOOKMARK [1][-]{section.3.5}{Arithmetic operations on matrices and vectors}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.5.1}{Multiplication of a scalar with a 2-D array}{section.3.5}
+\BOOKMARK [2][-]{subsection.3.5.2}{Addition of 2-D arrays}{section.3.5}
+\BOOKMARK [2][-]{subsection.3.5.3}{Multiplication of 2-D arrays \(`dot-product'\)}{section.3.5}
+\BOOKMARK [2][-]{subsection.3.5.4}{Multiplication of 2-D arrays \(element-by-element\)}{section.3.5}
+\BOOKMARK [1][-]{section.3.6}{Concatenation}{chapter.3}
+\BOOKMARK [1][-]{section.3.7}{Simple plotting}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Array operations}{}
+\BOOKMARK [1][-]{section.4.1}{Creating special MATLAB arrays using utility matrices}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{More MATLAB utility matrices}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{Statistical functions}{chapter.4}
+\BOOKMARK [1][-]{section.4.4}{Naming your variables}{chapter.4}
+\BOOKMARK [1][-]{section.4.5}{Relational operators}{chapter.4}
+\BOOKMARK [1][-]{section.4.6}{find function}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{MATLAB scripts}{}
+\BOOKMARK [1][-]{section.5.1}{Logical expressions}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{Saving your variables to file}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{Mathematical functions}{}
+\BOOKMARK [0][-]{chapter.7}{Function m-files}{}
+\BOOKMARK [1][-]{section.7.1}{Writing function m-files}{chapter.7}
+\BOOKMARK [1][-]{section.7.2}{Using a function in your script}{chapter.7}
+\BOOKMARK [2][-]{subsection.7.2.1}{Workspaces and code re-use}{section.7.2}
+\BOOKMARK [2][-]{subsection.7.2.2}{Multiple calls}{section.7.2}
+\BOOKMARK [0][-]{chapter.8}{Control flow}{}
+\BOOKMARK [1][-]{section.8.1}{for-loops}{chapter.8}
+\BOOKMARK [2][-]{subsection.8.1.1}{Malthusian population growth}{section.8.1}
+\BOOKMARK [1][-]{section.8.2}{while-loops}{chapter.8}
+\BOOKMARK [1][-]{section.8.3}{if-else-end}{chapter.8}
+\BOOKMARK [0][-]{chapter.9}{Using the debugger}{}
+\BOOKMARK [1][-]{section.9.1}{Syntax errors}{chapter.9}
+\BOOKMARK [1][-]{section.9.2}{Run-time errors}{chapter.9}
+\BOOKMARK [1][-]{section.9.3}{Manual debugging}{chapter.9}
+\BOOKMARK [1][-]{section.9.4}{Debugging in the Editor}{chapter.9}
+\BOOKMARK [0][-]{chapter.10}{Infinity and missing values}{}
+\BOOKMARK [0][-]{chapter.11}{Importing data}{}
+\BOOKMARK [0][-]{chapter.12}{More projects}{}
+\BOOKMARK [1][-]{section.12.1}{Making movies}{chapter.12}
+\BOOKMARK [2][-]{subsection.12.1.1}{On the need for closure}{section.12.1}
+\BOOKMARK [2][-]{subsection.12.1.2}{Compression}{section.12.1}
+\BOOKMARK [0][-]{chapter.13}{External toolboxes}{}
+\BOOKMARK [1][-]{section.13.1}{User contributed software}{chapter.13}
+\BOOKMARK [1][-]{section.13.2}{Installing GoogleEarth}{chapter.13}
+\BOOKMARK [1][-]{section.13.3}{Setting up the GoogleEarth application}{chapter.13}
+\BOOKMARK [1][-]{section.13.4}{KML}{chapter.13}
+\BOOKMARK [2][-]{subsection.13.4.1}{Automated writing of KML}{section.13.4}
+\BOOKMARK [1][-]{section.13.5}{Structure of the GoogleEarth Toolbox}{chapter.13}
+\BOOKMARK [1][-]{section.13.6}{Adding the toolbox to the path}{chapter.13}
+\BOOKMARK [1][-]{section.13.7}{Point features}{chapter.13}
+\BOOKMARK [1][-]{section.13.8}{Line features}{chapter.13}
+\BOOKMARK [1][-]{section.13.9}{Rasterized imagery}{chapter.13}

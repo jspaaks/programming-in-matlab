@@ -1,0 +1,103 @@
+\chapter{Mathematical functions}
+\thispagestyle{fancy}
+\label{ch:math-functions}
+
+\noindent Not only does \MATLAB{} provide many tools and utilities to analyze arrays, it also features a lot of mathematical commands:
+
+\begin{table}[!ht]
+\caption{Trigonometrical functions\index{trigonometrical functions}}
+\label{tab:math-functions-trigonometry}
+\vspace{-0.25em}
+\centering
+\begin{tabularx}{0.8\textwidth}{ |X|X| } \hline
+\textbf{Description}&\textbf{Example}\\ \hline
+sine&{\tt sin(3.1416) = -7.3464e-006}\index{sin@\texttt{sin}}\\ \hline
+cosine&{\tt cos(3.1416) = -1.0000}\index{cos@\texttt{cos}}\\ \hline
+tangent&{\tt tan(0.7854) = 1.0000}\index{tan@\texttt{tan}}\\ \hline
+inverse sine&{\tt asin(1) = 1.5708}\index{asin@\texttt{asin}}\\ \hline
+inverse cosine&{\tt acos(-1) = 3.1416}\index{acos@\texttt{acos}}\\ \hline
+inverse tangent&{\tt atan(1.0000) = 0.7854}\index{atan@\texttt{atan}}\\ \hline
+\end{tabularx}
+\end{table}
+
+
+
+
+\begin{table}[ht]
+\caption{Exponential functions\index{exponential functions}}
+\label{tab:math-functions-exp}
+\vspace{-0.25em}
+\centering
+\begin{tabularx}{0.8\textwidth}{ |X|X| } \hline
+\textbf{Description}&\textbf{Example}\\ \hline
+exponential, $e^x$&{\tt exp(1) = 2.7183}\index{exp (base-e exponentiation)@\texttt{exp} (base-$e$ exponentiation)}\index{e!base-e exponentiation@base-$e$ exponentiation}\index{base-e exponentiation@base-$e$ exponentiation}\\ \hline
+natural logarithm (base-$e$)&{\tt log(2.7183*2.7183) = 2.0000}\index{log@\texttt{log}}\\ \hline
+common logarithm (base-10)&{\tt log10(100) = 2}\index{log10@\texttt{log10}}\\ \hline
+square root&{\tt sqrt(25) = 5}\index{sqrt@\texttt{sqrt}}\\ \hline
+\end{tabularx}
+\end{table}
+
+
+
+\begin{table}[ht]
+\caption{Rounding functions\index{rounding}}
+\label{tab:math-functions-rounding}
+\vspace{-0.25em}
+\centering
+\begin{tabularx}{0.8\textwidth}{ |X|X| } \hline
+\textbf{Description}&\textbf{Example}\\ \hline
+round towards zero&{\tt fix(-5.7323) = -5}\index{fix@\texttt{fix}}\\ \hline
+round toward $-\infty$&{\tt floor(-5.7323) = -6}\index{floor@\texttt{floor}}\\ \hline
+round toward $+\infty$&{\tt ceil(-5.7323) = -5}\index{ceil@\texttt{ceil}}\\ \hline
+round towards nearest integer&{\tt round(-5.7323) = -6}\index{round@\texttt{round}}\\ \hline
+\end{tabularx}
+\end{table}
+
+
+
+\begin{action}
+Clear your workspace by manually entering the appropriate command at the prompt and type
+\prompt{G = [1:3:30];}
+\end{action}
+
+
+\noindent (Answer this before executing it in the command window). Consider the following command {\tt F = sin(G)}. 
+\begin{action}
+What are the array dimensions of {\tt F}? Check after answering.
+\end{action}
+
+\begin{action}
+Clear your workspace and define a 1 x 100 array {\tt Trigo} that contains values ranging from -2*pi to +2*pi. It might be useful to take another look at the creation of \MATLAB{} utility matrices covered in chapter \ref{ch:array-ops}.
+\end{action}
+
+\begin{action}
+Calculate the second row of {\tt Trigo}, containing the sine of the elements in {\tt Trigo(1,:)}.
+\end{action}
+
+\begin{action}
+Create a new figure and plot {\tt Trigo}. In order to do this correctly, you must specify which vector you want to be represented on each of the axes. Assign a legend to the figure using the {\tt legend}\index{legend@\texttt{legend}} command {\tt legend(\squote{sine})}. Label the x-axis `independent variable' and the y-axis `math function'.
+\end{action}
+
+\begin{action}
+Create a 1 x 60 array called {\tt Expon}, filled with equidistant values ranging from -3 to +3.
+\end{action}
+
+\begin{action}
+Calculate the second row of {\tt Expon} filled with values that are exponents of the values in the first row ($10^x$ , in which $x$ is the element in the first row).
+\end{action}
+
+\begin{action}
+Create a new figure and plot the second row of {\tt Expon}.
+\end{action}
+
+\begin{action}
+Create a new figure and use the {\tt semilogy}\index{semilogy@\texttt{semilogy}} command to display the second row of {\tt Expon} in a plot with a logarithmic y-axis. Consult the help documentation for information on the use of {\tt semilogy}.
+\end{action}
+
+\begin{action}
+Type {\tt ylabel(\squote{10\^{}{x}})} and confirm that it is displayed as $10^x$, then set the color of the sine in figure 1 to {\tt {\squote{r}} (red).
+\end{action}
+
+
+\noindent \lstlistingname{}~\ref{list:plot-example} contains an example of how to use the {\tt plot} function. (Note that it is slightly different from what you just did).
+\lstinputlisting[float=ht,caption={Example of how to use the {\tt plot} function},label=list:plot-example]{./../pim_files/ch06_math/plot_example.m}

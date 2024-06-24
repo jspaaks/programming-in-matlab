@@ -1,0 +1,5850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>
+demo_ge_quiver3_1.kml
+</name>
+<Folder id="red"><name>red</name><Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:01:00Z</begin><end>2010-02-10T00:02:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-90</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:02:00Z</begin><end>2010-02-10T00:03:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>1.5254</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-83.8983</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:03:00Z</begin><end>2010-02-10T00:04:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>3.0508</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-77.7966</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:04:00Z</begin><end>2010-02-10T00:05:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>4.5763</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-71.6949</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:05:00Z</begin><end>2010-02-10T00:06:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>6.1017</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-65.5932</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:06:00Z</begin><end>2010-02-10T00:07:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>7.6271</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-59.4915</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:07:00Z</begin><end>2010-02-10T00:08:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>9.1525</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-53.3898</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:08:00Z</begin><end>2010-02-10T00:09:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>10.678</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-47.2881</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:09:00Z</begin><end>2010-02-10T00:10:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>12.2034</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-41.1864</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:10:00Z</begin><end>2010-02-10T00:11:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>13.7288</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-35.0847</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:11:00Z</begin><end>2010-02-10T00:12:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>15.2542</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-28.9831</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:12:00Z</begin><end>2010-02-10T00:13:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>16.7797</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-22.8814</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:13:00Z</begin><end>2010-02-10T00:14:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>18.3051</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-16.7797</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:14:00Z</begin><end>2010-02-10T00:15:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>19.8305</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-10.678</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:15:00Z</begin><end>2010-02-10T00:16:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>21.3559</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>-4.5763</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:16:00Z</begin><end>2010-02-10T00:17:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>22.8814</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>1.5254</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:17:00Z</begin><end>2010-02-10T00:18:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>24.4068</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>7.6271</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:18:00Z</begin><end>2010-02-10T00:19:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>25.9322</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>13.7288</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:19:00Z</begin><end>2010-02-10T00:20:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>27.4576</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>19.8305</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:20:00Z</begin><end>2010-02-10T00:21:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>28.9831</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>25.9322</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:21:00Z</begin><end>2010-02-10T00:22:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>30.5085</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>32.0339</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:22:00Z</begin><end>2010-02-10T00:23:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>32.0339</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>38.1356</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:23:00Z</begin><end>2010-02-10T00:24:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>33.5593</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>44.2373</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:24:00Z</begin><end>2010-02-10T00:25:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>35.0847</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>50.339</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:25:00Z</begin><end>2010-02-10T00:26:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>36.6102</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>56.4407</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:26:00Z</begin><end>2010-02-10T00:27:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>38.1356</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>62.5424</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:27:00Z</begin><end>2010-02-10T00:28:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>39.661</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>68.6441</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:28:00Z</begin><end>2010-02-10T00:29:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>41.1864</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>74.7458</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:29:00Z</begin><end>2010-02-10T00:30:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>42.7119</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>80.8475</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:30:00Z</begin><end>2010-02-10T00:31:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>44.2373</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>90</heading>
+   <tilt>86.9492</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:31:00Z</begin><end>2010-02-10T00:32:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>45.7627</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>86.9492</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:32:00Z</begin><end>2010-02-10T00:33:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>47.2881</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>80.8475</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:33:00Z</begin><end>2010-02-10T00:34:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>48.8136</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>74.7458</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:34:00Z</begin><end>2010-02-10T00:35:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>50.339</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>68.6441</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:35:00Z</begin><end>2010-02-10T00:36:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>51.8644</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>62.5424</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:36:00Z</begin><end>2010-02-10T00:37:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>53.3898</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>56.4407</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:37:00Z</begin><end>2010-02-10T00:38:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>54.9153</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>50.339</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:38:00Z</begin><end>2010-02-10T00:39:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>56.4407</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>44.2373</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:39:00Z</begin><end>2010-02-10T00:40:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>57.9661</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>38.1356</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:40:00Z</begin><end>2010-02-10T00:41:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>59.4915</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>32.0339</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:41:00Z</begin><end>2010-02-10T00:42:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>61.0169</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>25.9322</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:42:00Z</begin><end>2010-02-10T00:43:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>62.5424</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>19.8305</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:43:00Z</begin><end>2010-02-10T00:44:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>64.0678</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>13.7288</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:44:00Z</begin><end>2010-02-10T00:45:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>65.5932</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>7.6271</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:45:00Z</begin><end>2010-02-10T00:46:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>67.1186</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>1.5254</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:46:00Z</begin><end>2010-02-10T00:47:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>68.6441</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-4.5763</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:47:00Z</begin><end>2010-02-10T00:48:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>70.1695</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-10.678</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:48:00Z</begin><end>2010-02-10T00:49:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>71.6949</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-16.7797</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:49:00Z</begin><end>2010-02-10T00:50:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>73.2203</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-22.8814</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:50:00Z</begin><end>2010-02-10T00:51:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>74.7458</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-28.9831</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:51:00Z</begin><end>2010-02-10T00:52:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>76.2712</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-35.0847</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:52:00Z</begin><end>2010-02-10T00:53:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>77.7966</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-41.1864</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:53:00Z</begin><end>2010-02-10T00:54:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>79.322</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-47.2881</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:54:00Z</begin><end>2010-02-10T00:55:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>80.8475</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-53.3898</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:55:00Z</begin><end>2010-02-10T00:56:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>82.3729</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-59.4915</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:56:00Z</begin><end>2010-02-10T00:57:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>83.8983</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-65.5932</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:57:00Z</begin><end>2010-02-10T00:58:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>85.4237</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-71.6949</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:58:00Z</begin><end>2010-02-10T00:59:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>86.9492</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-77.7966</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:59:00Z</begin><end>2010-02-10T01:00:00Z</end></TimeSpan>
+<name>quiver3 - red</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>88.4746</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>-83.8983</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_red_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+</Folder><Folder id="green"><name>green</name><Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:01:00Z</begin><end>2010-02-10T00:02:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-90</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:02:00Z</begin><end>2010-02-10T00:03:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>1.5254</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-83.8983</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:03:00Z</begin><end>2010-02-10T00:04:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>3.0508</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-77.7966</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:04:00Z</begin><end>2010-02-10T00:05:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>4.5763</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-71.6949</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:05:00Z</begin><end>2010-02-10T00:06:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>6.1017</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-65.5932</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:06:00Z</begin><end>2010-02-10T00:07:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>7.6271</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-59.4915</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:07:00Z</begin><end>2010-02-10T00:08:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.1525</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-53.3898</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:08:00Z</begin><end>2010-02-10T00:09:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>10.678</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-47.2881</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:09:00Z</begin><end>2010-02-10T00:10:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>12.2034</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-41.1864</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:10:00Z</begin><end>2010-02-10T00:11:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>13.7288</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-35.0847</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:11:00Z</begin><end>2010-02-10T00:12:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>15.2542</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-28.9831</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:12:00Z</begin><end>2010-02-10T00:13:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>16.7797</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-22.8814</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:13:00Z</begin><end>2010-02-10T00:14:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>18.3051</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-16.7797</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:14:00Z</begin><end>2010-02-10T00:15:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>19.8305</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-10.678</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:15:00Z</begin><end>2010-02-10T00:16:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>21.3559</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-4.5763</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:16:00Z</begin><end>2010-02-10T00:17:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>22.8814</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>1.5254</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:17:00Z</begin><end>2010-02-10T00:18:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>24.4068</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>7.6271</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:18:00Z</begin><end>2010-02-10T00:19:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>25.9322</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>13.7288</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:19:00Z</begin><end>2010-02-10T00:20:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>27.4576</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>19.8305</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:20:00Z</begin><end>2010-02-10T00:21:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>28.9831</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>25.9322</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:21:00Z</begin><end>2010-02-10T00:22:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>30.5085</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>32.0339</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:22:00Z</begin><end>2010-02-10T00:23:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>32.0339</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>38.1356</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:23:00Z</begin><end>2010-02-10T00:24:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>33.5593</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>44.2373</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:24:00Z</begin><end>2010-02-10T00:25:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>35.0847</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>50.339</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:25:00Z</begin><end>2010-02-10T00:26:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>36.6102</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>56.4407</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:26:00Z</begin><end>2010-02-10T00:27:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>38.1356</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>62.5424</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:27:00Z</begin><end>2010-02-10T00:28:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>39.661</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>68.6441</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:28:00Z</begin><end>2010-02-10T00:29:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>41.1864</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>74.7458</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:29:00Z</begin><end>2010-02-10T00:30:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>42.7119</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>80.8475</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:30:00Z</begin><end>2010-02-10T00:31:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>44.2373</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>86.9492</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:31:00Z</begin><end>2010-02-10T00:32:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>45.7627</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>86.9492</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:32:00Z</begin><end>2010-02-10T00:33:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>47.2881</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>80.8475</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:33:00Z</begin><end>2010-02-10T00:34:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>48.8136</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>74.7458</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:34:00Z</begin><end>2010-02-10T00:35:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>50.339</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>68.6441</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:35:00Z</begin><end>2010-02-10T00:36:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>51.8644</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>62.5424</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:36:00Z</begin><end>2010-02-10T00:37:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>53.3898</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>56.4407</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:37:00Z</begin><end>2010-02-10T00:38:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>54.9153</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>50.339</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:38:00Z</begin><end>2010-02-10T00:39:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>56.4407</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>44.2373</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:39:00Z</begin><end>2010-02-10T00:40:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>57.9661</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>38.1356</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:40:00Z</begin><end>2010-02-10T00:41:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>59.4915</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>32.0339</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:41:00Z</begin><end>2010-02-10T00:42:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>61.0169</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>25.9322</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:42:00Z</begin><end>2010-02-10T00:43:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>62.5424</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>19.8305</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:43:00Z</begin><end>2010-02-10T00:44:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>64.0678</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>13.7288</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:44:00Z</begin><end>2010-02-10T00:45:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>65.5932</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>7.6271</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:45:00Z</begin><end>2010-02-10T00:46:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>67.1186</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>1.5254</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:46:00Z</begin><end>2010-02-10T00:47:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>68.6441</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-4.5763</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:47:00Z</begin><end>2010-02-10T00:48:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>70.1695</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-10.678</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:48:00Z</begin><end>2010-02-10T00:49:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>71.6949</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-16.7797</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:49:00Z</begin><end>2010-02-10T00:50:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>73.2203</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-22.8814</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:50:00Z</begin><end>2010-02-10T00:51:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>74.7458</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-28.9831</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:51:00Z</begin><end>2010-02-10T00:52:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>76.2712</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-35.0847</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:52:00Z</begin><end>2010-02-10T00:53:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>77.7966</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-41.1864</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:53:00Z</begin><end>2010-02-10T00:54:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>79.322</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-47.2881</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:54:00Z</begin><end>2010-02-10T00:55:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>80.8475</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-53.3898</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:55:00Z</begin><end>2010-02-10T00:56:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>82.3729</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-59.4915</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:56:00Z</begin><end>2010-02-10T00:57:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>83.8983</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-65.5932</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:57:00Z</begin><end>2010-02-10T00:58:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>85.4237</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-71.6949</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:58:00Z</begin><end>2010-02-10T00:59:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>86.9492</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-77.7966</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:59:00Z</begin><end>2010-02-10T01:00:00Z</end></TimeSpan>
+<name>quiver3 - green</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>88.4746</longitude>
+   <latitude>0</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>180</heading>
+   <tilt>-83.8983</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>2500000</x>
+   <y>2500000</y>
+   <z>2500000</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_green_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+</Folder><Folder id="blue"><name>blue</name><Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:01:00Z</begin><end>2010-02-10T00:02:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0</longitude>
+   <latitude>10</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>0</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:02:00Z</begin><end>2010-02-10T00:03:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>1.0629</longitude>
+   <latitude>9.9433</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>6.1017</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:03:00Z</begin><end>2010-02-10T00:04:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>2.1138</longitude>
+   <latitude>9.774</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>12.2034</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:04:00Z</begin><end>2010-02-10T00:05:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>3.1408</longitude>
+   <latitude>9.494</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>18.3051</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:05:00Z</begin><end>2010-02-10T00:06:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>4.1321</longitude>
+   <latitude>9.1063</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>24.4068</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:06:00Z</begin><end>2010-02-10T00:07:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>5.0767</longitude>
+   <latitude>8.6155</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>30.5085</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:07:00Z</begin><end>2010-02-10T00:08:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>5.9637</longitude>
+   <latitude>8.0271</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>36.6102</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:08:00Z</begin><end>2010-02-10T00:09:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>6.7831</longitude>
+   <latitude>7.3477</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>42.7119</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:09:00Z</begin><end>2010-02-10T00:10:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>7.5257</longitude>
+   <latitude>6.5851</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>48.8136</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:10:00Z</begin><end>2010-02-10T00:11:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>8.183</longitude>
+   <latitude>5.7479</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>54.9153</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:11:00Z</begin><end>2010-02-10T00:12:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>8.7476</longitude>
+   <latitude>4.8455</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>61.0169</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:12:00Z</begin><end>2010-02-10T00:13:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.2131</longitude>
+   <latitude>3.8882</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>67.1186</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:13:00Z</begin><end>2010-02-10T00:14:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.5742</longitude>
+   <latitude>2.8869</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>73.2203</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:14:00Z</begin><end>2010-02-10T00:15:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.8268</longitude>
+   <latitude>1.8529</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>79.322</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:15:00Z</begin><end>2010-02-10T00:16:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.9681</longitude>
+   <latitude>0.79786</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>85.4237</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:16:00Z</begin><end>2010-02-10T00:17:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.9965</longitude>
+   <latitude>-0.26621</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>91.5254</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:17:00Z</begin><end>2010-02-10T00:18:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.9115</longitude>
+   <latitude>-1.3273</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>97.6271</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:18:00Z</begin><end>2010-02-10T00:19:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.7143</longitude>
+   <latitude>-2.3733</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>103.7288</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:19:00Z</begin><end>2010-02-10T00:20:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>9.407</longitude>
+   <latitude>-3.3924</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>109.8305</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:20:00Z</begin><end>2010-02-10T00:21:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>8.9931</longitude>
+   <latitude>-4.3731</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>115.9322</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:21:00Z</begin><end>2010-02-10T00:22:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>8.4773</longitude>
+   <latitude>-5.3042</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>122.0339</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:22:00Z</begin><end>2010-02-10T00:23:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>7.8655</longitude>
+   <latitude>-6.1752</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>128.1356</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:23:00Z</begin><end>2010-02-10T00:24:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>7.1646</longitude>
+   <latitude>-6.9763</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>134.2373</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:24:00Z</begin><end>2010-02-10T00:25:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>6.3824</longitude>
+   <latitude>-7.6983</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>140.339</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:25:00Z</begin><end>2010-02-10T00:26:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>5.528</longitude>
+   <latitude>-8.3331</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>146.4407</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:26:00Z</begin><end>2010-02-10T00:27:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>4.6109</longitude>
+   <latitude>-8.8735</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>152.5424</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:27:00Z</begin><end>2010-02-10T00:28:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>3.6416</longitude>
+   <latitude>-9.3134</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>158.6441</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:28:00Z</begin><end>2010-02-10T00:29:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>2.631</longitude>
+   <latitude>-9.6477</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>164.7458</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:29:00Z</begin><end>2010-02-10T00:30:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>1.5906</longitude>
+   <latitude>-9.8727</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>170.8475</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:30:00Z</begin><end>2010-02-10T00:31:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>0.53222</longitude>
+   <latitude>-9.9858</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>176.9492</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:31:00Z</begin><end>2010-02-10T00:32:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-0.53222</longitude>
+   <latitude>-9.9858</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>183.0508</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:32:00Z</begin><end>2010-02-10T00:33:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-1.5906</longitude>
+   <latitude>-9.8727</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>189.1525</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:33:00Z</begin><end>2010-02-10T00:34:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-2.631</longitude>
+   <latitude>-9.6477</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>195.2542</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:34:00Z</begin><end>2010-02-10T00:35:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-3.6416</longitude>
+   <latitude>-9.3134</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>201.3559</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:35:00Z</begin><end>2010-02-10T00:36:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-4.6109</longitude>
+   <latitude>-8.8735</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>207.4576</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:36:00Z</begin><end>2010-02-10T00:37:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-5.528</longitude>
+   <latitude>-8.3331</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>213.5593</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:37:00Z</begin><end>2010-02-10T00:38:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-6.3824</longitude>
+   <latitude>-7.6983</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>219.661</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:38:00Z</begin><end>2010-02-10T00:39:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-7.1646</longitude>
+   <latitude>-6.9763</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>225.7627</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:39:00Z</begin><end>2010-02-10T00:40:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-7.8655</longitude>
+   <latitude>-6.1752</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>231.8644</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:40:00Z</begin><end>2010-02-10T00:41:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-8.4773</longitude>
+   <latitude>-5.3042</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>237.9661</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:41:00Z</begin><end>2010-02-10T00:42:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-8.9931</longitude>
+   <latitude>-4.3731</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>244.0678</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:42:00Z</begin><end>2010-02-10T00:43:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-9.407</longitude>
+   <latitude>-3.3924</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>250.1695</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:43:00Z</begin><end>2010-02-10T00:44:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-9.7143</longitude>
+   <latitude>-2.3733</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>256.2712</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:44:00Z</begin><end>2010-02-10T00:45:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-9.9115</longitude>
+   <latitude>-1.3273</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>262.3729</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:45:00Z</begin><end>2010-02-10T00:46:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-9.9965</longitude>
+   <latitude>-0.26621</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>268.4746</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:46:00Z</begin><end>2010-02-10T00:47:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-9.9681</longitude>
+   <latitude>0.79786</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>274.5763</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:47:00Z</begin><end>2010-02-10T00:48:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-9.8268</longitude>
+   <latitude>1.8529</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>280.678</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:48:00Z</begin><end>2010-02-10T00:49:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-9.5742</longitude>
+   <latitude>2.8869</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>286.7797</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:49:00Z</begin><end>2010-02-10T00:50:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-9.2131</longitude>
+   <latitude>3.8882</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>292.8814</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:50:00Z</begin><end>2010-02-10T00:51:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-8.7476</longitude>
+   <latitude>4.8455</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>298.9831</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:51:00Z</begin><end>2010-02-10T00:52:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-8.183</longitude>
+   <latitude>5.7479</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>305.0847</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:52:00Z</begin><end>2010-02-10T00:53:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-7.5257</longitude>
+   <latitude>6.5851</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>311.1864</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:53:00Z</begin><end>2010-02-10T00:54:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-6.7831</longitude>
+   <latitude>7.3477</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>317.2881</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:54:00Z</begin><end>2010-02-10T00:55:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-5.9637</longitude>
+   <latitude>8.0271</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>323.3898</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:55:00Z</begin><end>2010-02-10T00:56:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-5.0767</longitude>
+   <latitude>8.6155</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>329.4915</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:56:00Z</begin><end>2010-02-10T00:57:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-4.1321</longitude>
+   <latitude>9.1063</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>335.5932</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:57:00Z</begin><end>2010-02-10T00:58:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-3.1408</longitude>
+   <latitude>9.494</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>341.6949</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:58:00Z</begin><end>2010-02-10T00:59:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-2.1138</longitude>
+   <latitude>9.774</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>347.7966</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<TimeSpan><begin>2010-02-10T00:59:00Z</begin><end>2010-02-10T01:00:00Z</end></TimeSpan>
+<name>quiver3 - blue</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>absolute</altitudeMode>
+<Location>
+   <longitude>-1.0629</longitude>
+   <latitude>9.9433</latitude>
+   <altitude>100000</altitude>
+</Location>
+<Orientation>
+   <heading>353.8983</heading>
+   <tilt>-57.5184</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>4655239.7228</x>
+   <y>4655239.7228</y>
+   <z>4655239.7228</z>
+</Scale>
+<Link>
+   <href>data/elong_cube_blue_lite.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+</Folder>
+</Document>
+</kml>

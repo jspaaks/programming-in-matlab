@@ -1,0 +1,92 @@
+\chapter{Importing data}
+\thispagestyle{fancy}
+\label{ch:importing-data}
+The data files you have used until now consisted mainly of numeric data. However, data is usually a mixture of both text and numeric content. Because of this, it is often not possible to use the {\tt load} command to load these files into the \MATLAB{} workspace. However, as long as the mixed data has a fixed format, \MATLAB{} can make data available for calculation using the function {\tt textread}.
+
+\begin{action} 
+Set your work directory to `\textbackslash{}ch11\_importing\_data' and take a look at the contents of the `soildata.txt' file.
+\end{action}
+\begin{lstlisting}[language=TeX]
+testfile for textread
+J.H. Spaaks & P.Kraal
+
+soil profile       : A234.3
+date               : 15-Sep-2003
+
+soil horizon       : nominal class - FAO classification
+depth              : depth of top of soil horizon
+thickness          : thickness of soil horizon
+root density class : 1=very high,2=high,3=intermediate,
+                     4=low,5=very low,6=no roots
+
+soil horizon    depth    thickness    root density class
+[-]             [m]      [m]          [m/m3]	
+Ah, 0,  0.15,  1
+Bs, -0.15,    0.18,  3
+Bt, -0.33,  0.09,  5
+1C, -0.42,       2.07, 5
+\end{lstlisting}
+At first glance, this file doesn't seem to have a fixed format. Yet it does: the first 11 lines contain the description of the data, line 12 is empty, line 13 contains the variable names, line 14 the units, and lines 15 to 18 consist of the data itself with a comma to separate fields. This formatting enables us to load the file into \MATLAB{} with {\tt textread}\index{textread@\texttt{textread}}. In its simplest form, {\tt textread} expects the following syntax:
+\begin{lstlisting}[numbers=none]
+[A,B,C] = textread('filename','format')
+\end{lstlisting}
+where {\tt A}, {\tt B} and {\tt C} are the variables in which the data from the fields of {\tt \squote{filename}} will be stored, and {\tt \squote{format}} is a character array (see Table~\ref{tab:array-classes} on page~\pageref{tab:array-classes}}) in which you specify how you want \MATLAB{} to interpret the data from {\tt \squote{filename}}. The format string\index{format string} is composed of smaller parts, each of which must start with the {\tt \%} sign. Each of the parts has the same structure: after the {\tt \%} sign, there can be an optional number, followed by a letter indicating how you want \MATLAB{} to interpret the information that you are reading (see Table~\ref{tab:format-string-values}).
+\begin{table}[ht]
+\vspace{1em}
+\caption{Format string values.}
+\label{tab:format-string-values}
+\vspace{-0.25em}
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\textbf{Format string}&\textbf{Description}\\
+\hline
+{\tt d}&Reads an integer value\\
+\hline
+{\tt f}&Reads a floating point value\\
+\hline
+{\tt c}&Reads a character value\\
+\hline
+\end{tabular}
+\end{table}
+At this point, the usage of {\tt textread} is probably still rather vague, so let's take a look at an example. The correct syntax for extracting the data from `soildata.txt' is listed in \lstlistingname~\ref{list:textread-example}.
+\lstinputlisting[numbers=none,float=ht,caption={Example of {\tt textread}. Note that {\tt \squote{...}} breaks the command line for easier reading and printing.},label={list:textread-example}]{./../m/read_soildata.m}\index{...@\texttt{...}}
+This way, you can tell \MATLAB{} from which file it needs to read ({\tt \squote{soildata.txt}}), and which format it should use ({\tt \squote{\%2c\%f\%f\%d}}). With this format string, you subsequently read 2 characters, a floating-point, another floating-point, and an integer, before \MATLAB{} goes on with the next line. Because there are 4 {\tt \%} signs, there must also be 4 variables: {\tt {[Hor,D,Th,RtDns]}}. If at this point we would try to read the data with:
+\begin{lstlisting}[numbers=none]
+[Hor,D,Th,RtDns] = textread('soildata.txt','%2c%f%f%d')
+\end{lstlisting}
+\MATLAB{} would raise an error, because it will start to read at the very first line of the file unless you specify where to start. This is why the parameter {\tt \squote{headerlines}}\index{`headerlines@\texttt{\squote{headerlines}}} was included in \lstlistingname~\ref{list:textread-example}: it tells \MATLAB{} how many lines need to be skipped before the format string can be applied. For the case of `soildata.txt', there are 14 headerlines that need to be skipped, hence the {\tt 14} directly after {\tt \squote{headerlines}}. Note that we are no longer using {\tt textread} with:
+\begin{lstlisting}[numbers=none]
+[A,B,C] = textread('filename','format')
+\end{lstlisting}
+but instead we are using the form with which you can pass options, or as they are formally known `parameter/value pairs'\index{parameter/value pairs}:
+\begin{lstlisting}[numbers=none]
+[A,B,C] = textread('filename','format',parameter1,value1,...
+                                       parameter2,value2)
+\end{lstlisting}
+In the same way as we are assigning the value 14 to the parameter {\tt \squote{headerlines}}, we can specify the column delimiter symbol by means of the {\tt \squote{delimiter}}\index{`delimiter@\texttt{\squote{delimiter}}} parameter. For the case of `soildata.txt', the column delimiter symbol is set to the comma sign {\tt \squote{,}}. Besides {\tt \squote{headerlines}} and {\tt \squote{delimiter}}, {\tt textread} has a lot more functionality to offer. For further information, including some examples, you can consult the {\tt doc} function. 
+\begin{action}
+Make sure you understand the {\tt textread} example above, especially the way in which the format string is used. Now try to insert an asterisk somewhere in the format string, to ignore one of the fields from `soildata.txt' (Refer to the documentation on how to use this asterisk). Remember that the number of fields you are trying to read must be equal to the number of output arguments, otherwise \MATLAB{} will raise the error below:
+\end{action}
+\begin{lstlisting}[numbers=none]
+??? Number of outputs must match the number of unskipped input fields.
+\end{lstlisting}
+\begin{action}
+Now that you have practiced a little, it's time to try something more ambitious. Open `knmi\_dh.txt'\footnote{Data from \url{www.knmi.nl}}. This file contains information on 14 meteorological parameters monitored from 01-Jan-2001 to 12-Aug-2003 in Den Helder, The Netherlands (station number 235; see excerpt on page~\pageref{list:knmi_dh}). Use {\tt textread} to load the prevailing wind direction (DDVEC) into the \MATLAB{} workspace as {\tt WDirDeg}. For the moment, let you command ignore all columns other than DDVEC.
+\end{action}
+\begin{action}
+Use the function {\tt conv\_deg2rad} (see page~\pageref{lab:conv_deg2rad}) to create a vector {\tt WDirRad} with {\tt DDVEC} in radians. In order to use the function, copy it to your work directory.
+\end{action}
+\begin{action}
+Plot {\tt WDirRad} using the {\tt rose}\index{rose@\texttt{rose}} function. Consult the documentation for details. Add a title.
+\end{action}
+\begin{action}
+Make an additional figure in which you visualize rose diagrams for January and July using subplots. Limit yourself to the years 2001 and 2002. Use logical arrays and {\tt find} to make your selections. You may want to alter your {\tt textread} format string to also read the dates that a particular measurement was taken.
+\end{action}
+\begin{action}
+Choose three variables from the KNMI data set that you find interesting. Write a program that reads these data from the KNMI file and visualizes them in the way most suitable for the type of data displayed.
+\end{action}
+
+\begin{landscape}
+\lstinputlisting[firstline=1,lastline=45,float=p,language=TeX,nolol,label={list:knmi_dh}]{./../m/knmi_dh.txt}
+\end{landscape}

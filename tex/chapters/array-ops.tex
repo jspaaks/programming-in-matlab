@@ -1,0 +1,477 @@
+\chapter{Array operations}
+\thispagestyle{fancy}
+\label{ch:array-ops}
+
+\index{array operations}
+
+\MATLAB{} has many possibilities for array operations. In this chapter, we will look at a few of them.
+
+\section{Creating special \MATLAB{} arrays using utility matrices}
+
+Up to this point, you created all matrices by manually filling rows and columns with values. Below are some of the \MATLAB{} utility functions that are `shortcuts' to special matrix formats: 
+
+
+
+\begin{table}[ht]
+\caption{\MATLAB{} utility matrices\index{utility matrices}}
+\label{tab:utility-matrices}
+\vspace{-0.5em}
+\centering
+\begin{tabular}{|p{4cm}|p{8cm}|}
+\hline
+\textbf{Function}&\textbf{Description}\\
+\hline
+{\tt zeros(M,N)}\index{zeros@\texttt{zeros}}&Generate an array of size MxN filled with zeros\\
+\hline
+{\tt ones(M,N)}\index{ones@\texttt{ones}}&Generate an array of size MxN filled with ones\\
+\hline
+{\tt rand(M,N)}\index{rand@\texttt{rand}}&Generate an array of size MxN filled with values that are randomly chosen from a uniform distribution between 0 and 1 \\
+\hline
+{\tt randn(M,N)}\index{randn@\texttt{randn}}&Generate an array of size MxN filled with values that are randomly chosen from a normal distribution with mean 0 and standard deviation 1\\
+\hline
+{\tt eye(M)}\index{eye@\texttt{eye}}&Generate an identity matrix of size MxM with ones on the diagonal and zeros on all other positions\\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent For instance, {\tt A = [1,1,1;1,1,1]} has the same result as {\tt A = ones(2,3)}.
+
+\vspace{1.5em}
+
+\begin{action}
+Clear your workspace and type
+\prompt{J = rand(7,5)}
+\noindent and interpret the result. If necessary use the documentation by typing: 
+\prompt{doc rand}
+\end{action}
+
+\begin{action}
+\noindent To extract a submatrix from {\tt J}, type:
+\prompt{Jsub1 = J(6:7,:)}
+\noindent and interpret the result.
+\end{action}
+
+\noindent Since in this case no column numbers are specified, \textbf{all} values of {\tt J} that are on the 6$^{th}$ or 7$^{th}$ row of {\tt J} are selected.
+
+\begin{action}
+Now try to extract {\tt Jsub2}, a 7x2 array containing the last two columns of {\tt J}.
+\end{action}
+
+\begin{action}
+Create a 4x5 matrix filled with only 7s
+\end{action}
+
+\begin{action}
+Create a 4x4 matrix filled with -1 but with 2 on the diagonal
+\end{action}
+
+\begin{action}
+Create a matrix with 3 columns and 7 rows filled with uniform random numbers between –3 and -1
+\end{action}
+
+\section{More MATLAB utility matrices}
+
+\begin{action}
+Type 
+\end{action}
+\prompt{G = [1,2;3,4;5,6]}
+
+
+\begin{action}
+Type
+\end{action}
+\prompt{Gflipped = flipud(G)}\index{flipud@\texttt{flipud}}
+\noindent and interpret the result.
+
+\begin{action}
+Try the following \MATLAB{} functions as well: {\tt fliplr}\index{fliplr@\texttt{fliplr}} and {\tt rot90}\index{rot90@\texttt{rot90}}. Describe what happens to the array for each command. Again use {\tt doc} to get more insight in the possibilities of these functions.
+\end{action}
+\begin{action}
+Type
+\end{action} 
+\prompt{Gtran = transpose(G)}\index{transpose@\texttt{transpose}}
+\noindent Compare the original array {\tt G} and {\tt Gtran}. Describe the changes. 
+
+\noindent (Note that 
+{\tt \textgreater\textgreater\ Gtran = G\textquotesingle }\index{`@\texttt{\textquotesingle}}
+has the same effect as {\tt \textgreater\textgreater\ Gtran = transpose(G)}).
+
+
+ 
+\begin{action}
+Create these three arrays:
+\begin{itemize}
+\item 2x3 array {\tt [6,7,8;2,3,4]}
+\item 1x3 array {\tt [1,5,9]}
+\item 1x3 array {\tt [10,11,12]}
+\end{itemize}
+Use concatenation and manipulation commands to compose this 3x4 array from the matrices you just created:
+\end{action}
+\begin{equation}
+\left[
+\begin{array}{cccc}
+1&2&3&4\\
+5&6&7&8\\
+9&10&11&12\\
+\end{array}
+\right]
+\end{equation}
+
+
+\section{Statistical functions}
+\MATLAB{} has a lot of built-in functions for statistical analysis of data sets. For example
+{\tt min(M)} returns the minimum of a vector {\tt M}. 
+
+\begin{action}
+Clear the workspace
+\end{action}
+
+\begin{action}
+Create a 2 x 6 array {\tt D} using: 
+\prompt{D = [11:-3:-4;linspace(1,11,6)]}\index{linspace@\texttt{linspace}}
+\end{action}
+
+\begin{action}
+Typing 
+\prompt{min(D)}\index{min@\texttt{min}}
+\noindent at the prompt will return:
+\begin{verbatim}
+
+ans =
+
+     1     3     5     2    -1    -4
+
+\end{verbatim}
+Interpret how these numbers were determined.
+\end{action}
+
+
+\hintbox{{\tt ans}\index{ans@\texttt{ans}} (short for `answer') is a temporary variable name that \MATLAB{} automatically generates when the user does not specify a variable name. It is overwritten every time a variable name is not specified.}
+
+
+\begin{table}[ht]
+\caption{\MATLAB{} Statistical functions}
+\label{tab:statistical-functions}
+\vspace{-0.5em}
+\centering
+\begin{tabular}{|p{4cm}|p{8cm}|}
+\hline
+\textbf{Function}&\textbf{Description}\\
+\hline
+{\tt min(M)}& Calculates the minimum of a vector {\tt M}\\
+\hline
+{\tt max(M)}\index{max@\texttt{max}}& Calculates the maximum of a vector {\tt M}\\
+\hline
+{\tt mean(M)}\index{mean@\texttt{mean}}& Calculates the mean of a vector {\tt M}\\
+\hline
+{\tt median(M)}\index{median@\texttt{median}}& Calculates the median of a vector {\tt M}\\
+\hline
+{\tt sum(M)}\index{sum@\texttt{sum}}& Calculates the sum of a vector {\tt M}\\
+\hline
+{\tt std(M)}\index{std@\texttt{std}}& Calculates the standard deviation of a vector {\tt M}\\
+\hline
+{\tt prod(M)}\index{prod@\texttt{prod}}& Calculates the product of a vector {\tt M}\\
+\hline
+\end{tabular}
+\end{table}
+
+
+\noindent If {\tt M} is an array with {\tt R} rows and {\tt C} columns, {\tt sum(M)} returns a row vector. The n$^{th}$ element of this vector contains the sum of the n$^{th}$ element from all rows of {\tt M}. In other words, {\tt sum(M)} returns the sum of M, calculated over the first dimension, i.e. the rows. If you want to sum columns instead of rows, you can specify that the summation should be applied to the 2$^{nd}$ dimension (i.e. the columns) by:
+
+\prompt{SumM = sum(M,2)}
+\noindent The second argument to the function {\tt sum} is equal to 1 for operations on rows and 2 for operations on columns if {\tt M} is a 2-dimensional array, but can be higher if {\tt M} has more than 2 dimensions.
+
+
+\begin{action}
+If {\tt X = [0,1,2;3,4,5]}, calculate {\tt sum(X,1)} and {\tt sum(X,2)}, as well as the sum of the entire {\tt X} matrix, {\tt sum(sum(X))}. 
+\end{action}
+
+\begin{action}
+Is there a difference between {\tt sum(sum(X,1))} and {\tt sum(sum(X,2))} if {\tt X} is a 2-D array?
+\end{action}
+
+\noindent The other functions from the list work in a similar way. If you would like to know more about these functions, you can always try or consult {\tt doc} or {\tt help}. 
+
+\begin{action}
+Calculate the sum and mean of matrix {\tt X} over the columns.
+\end{action}
+
+\begin{action}
+Calculate the sum and mean of all elements of matrix {\tt X}.
+\end{action}
+
+\hintbox{If you want to calculate the standard deviation of all values of a 2-D array, you have to make it a 1-D vector first:\newline\vspace{0.5em}{\tt{}std(X(:))}}
+
+\begin{action}
+Carefully read the Tip above and execute the command. Do you understand what happened?
+\end{action}
+
+\begin{action}
+Why is the result of {\tt std(std(X))} different from {\tt std(X(:))}?
+\end{action}
+
+
+\section{Naming your variables}
+
+It is not very sensible to give variables in your script the same name as any existing functions. For example, consider the following:
+
+\prompt{A = rand(3,3)}
+\prompt{B = rand(10,24)}
+\prompt{mean = mean(B)}
+
+\noindent So far, this would not generate any errors\footnote{Some newer version of \MATLAB{} are smart enough to recognize the upcoming problem, and will raise an error at this point}. However, if you would like to calculate the mean of {\tt A} according to:
+\prompt{MeanA = mean(A)}
+
+\noindent \MATLAB{} will return an error, because it is trying to make a selection from \underline{variable} {\tt mean}, which \MATLAB{} is then trying to assign to a new variable {\tt MeanA}. The error is generated because the selection happens to be an invalid one. This is because the values used as indices into the array {\tt mean} are not positive integers.
+
+\hintbox{If you want to use a particular variable name, but you are not sure if it exists already as a function, you can use {\tt which}\index{which@\texttt{which}} or {\tt exist}\index{exist@\texttt{exist}}. Check the documentation on these functions to see how you can use them.}
+
+\hintbox{Give your variables sensible names!}
+
+
+
+\vspace{4em}
+
+
+\project{Statistics of the fieldwork site Luxembourg}
+\begin{action}
+Set your work directory to `\textbackslash{}ch04\_array\_ops\textbackslash{}proj02\_stats\_lux'. Load the Digital Elevation Model (DEM) of the fieldwork site in Luxemburg (`dem\_lux.mat') in \MATLAB{}.
+\end{action}
+The file contains a 2-D array {\tt DemLux} representing elevation data on a 25-meter grid. The base elevation is referenced to a 150-meter height above sea level.
+
+\begin{action}
+Have a look at the data by double-clicking the {\tt DemLux} array in the workspace. Next, convert the data to heights above sea level by adding the base height of 150 meters. Then, using the statistical functions covered earlier, determine the minimum, maximum height, the mean and median height, and then the standard deviation of the height. Calculate the total volume of rock and soil above sea level, given that the area of a grid cell is 25x25 m.
+\end{action}
+
+\begin{action}
+Visualize the DEM by using the \MATLAB{} function {\tt imagesc}\index{imagesc@\texttt{imagesc}}. Make a clear graphical representation, including titles and a {\tt colorbar}\index{colorbar@\texttt{colorbar}}.
+\end{action}
+
+\projectfooter{}
+
+\section{Relational operators}
+In the previous sections, you have become familiar with arrays and several operations you can perform on arrays. Also, some mathematical operators were introduced. \MATLAB{} offers other powerful commands to analyze your arrays, such as relational operators. Relational operators\index{relational operators} perform element-by-element comparisons between arrays. The arrays must have the same size, except when comparing an array with a scalar.
+
+\begin{action}
+Clear you workspace and type
+\prompt{A = [8,2,5,1;7,6,9,13;11,4,12,3]}
+\end{action}
+
+\noindent Suppose you want to find out what positions in the array contain values that are smaller than 8. For this small array, you could easily do that by hand, but it would be too much work for the large datasets you will normally work with in \MATLAB{}. Imagine having to check thousands of values by hand!
+
+\begin{action}
+Type 
+\prompt{B = (A < 8)}
+\end{action}
+
+\noindent This returns a matrix the same size as {\tt A} with ones and zeros: ones located at array positions where the value in {\tt A} is smaller than 8, and zeros located at positions where the value is equal to or greater than 8. Arrays of this type are called `logical' arrays\footnote{In other programming languages, this data type is sometimes known as `boolean'\index{boolean} (after the English mathematician George Boole; \url{http://en.wikipedia.org/wiki/Boole})\index{Boole, George}}. Logical arrays are often used to identify positions in an array where a certain condition is satisfied. For example, in an orchard there are many trees; you could make an array {\tt nApples} that lists the number of apples on each tree. By using logical arrays, you could give the trees that have less than 100 apples ({\tt nApples<100}) the logical value 1 (or {\tt true})\index{true@\texttt{true}}, and those that have 100 apples or more, the logical value of 0 (or {\tt false}\index{false@\texttt{false}}).
+
+\begin{action}
+Create a matrix {\tt C} with zeros on positions where {\tt A} is smaller than 8, and the values of {\tt A} on all other positions. This may not be an easy task, but with what you've learned in previous sections you should be able to derive the answer.
+\end{action}
+
+\noindent Of course, the {\tt <} operator is not the only condition that you can test for. Table~\ref{tab:relational-operators} on page \pageref{tab:relational-operators} provides an overview of all conditions. As a further example,
+
+\begin{action}
+Type 
+\prompt{G = [8,1,3,1;5,6,3,8;11,8,12,5]}
+\end{action}
+
+\begin{action}
+Type 
+\prompt{H = (A == G)}
+\noindent and interpret the result.
+\end{action}
+
+
+\begin{table}[ht]
+\caption{\MATLAB{} Relational operators\index{relational operators}}
+\label{tab:relational-operators}
+\vspace{-0.5em}
+\centering
+\begin{tabular}{|c|p{6cm}|}
+\hline
+\textbf{Operator}&\textbf{Type of comparison}\\
+\hline
+{\tt >}&greater than\\
+\hline
+{\tt >=}&greater than or equal to\\
+\hline
+{\tt <}&smaller than\\
+\hline
+{\tt <=}&smaller than or equal to\\
+\hline
+{\tt ==}&equal to\\
+\hline
+{\tt $\sim$=}&not equal to\\
+\hline
+\end{tabular}
+\end{table}
+
+%\noindent Now, the arrays are being compared element-by-element. If {\tt i} stands for row number and {\tt j} stands for column number, then {\tt H(i,j)} is 1 if {\tt A(i,j)} is equal to {\tt G(i,j)}, otherwise {\tt H(i,j)} is 0.
+%
+
+\section{{\tt find} function}
+
+The {\tt find}\index{find@\texttt{find}} function finds the non-zero elements of a matrix. If the {\tt find} function is used in combination with a logical array, it return the positions in an array, where some condition is {\tt true}. For the orchard example, we could find the indices of the trees that have less than 100 apples by {\tt find(nApples<100)}. If no elements are found, {\tt find} returns an empty matrix. 
+
+\begin{action}
+Type
+\end{action}
+\prompt{Z = A<4}
+\prompt{P = find(Z)}
+
+\noindent returns an array {\tt P} with indices of the non-zero values in {\tt Z}. These indices correspond with values smaller than 4 in {\tt A}.
+
+\prompt{[P,Q] = find(Z)}
+\noindent returns two vectors {\tt P} and {\tt Q}, containing the row {\tt P} and column {\tt Q} numbers of the non-zero values in matrix {\tt Z}, that correspond to values of {\tt A}  that are smaller than 4. 
+
+\noindent Example
+\prompt{B = [4,7,2;8,9,4]}
+\prompt{[P,Q] = find(B==4)}
+\noindent result: 
+\begin{verbatim}
+P =
+     		1
+     		2
+Q =
+     		1
+     		3
+\end{verbatim}
+This means that the criterion {\tt (B==4)} is satisfied at {\tt B(1,1)} and at {\tt B(2,3)}.
+\hintbox{The {\tt find} function returns the indices or subscripts of the values that meet the condition, not the values themselves.}
+
+\begin{action}
+Use the find function to replace all 4s by 0s in the matrix {\tt B}.
+\end{action}
+
+\noindent Before you go on with Project \ref{pr:florac}, review the work done through chapter \ref{ch:array-ops}.
+
+
+
+
+
+\project{Evapotranspiration at Florac}
+\label{pr:florac}
+
+\noindent Water shortage has always been a problem for farmers near Florac in the Loz\`{e}re province, France. To investigate water losses to the atmosphere by evapotranspiration, scientists want to analyze the effect of different vegetation types on the total evapotranspiration in this agricultural area. From the literature it is known that every vegetation type has its own transpiration rate. By combining the vegetation-specific transpiration rates with their spatial distribution, as obtained from satellite images, the contribution of every vegetation type to the total evapotranspiration can be calculated. 
+
+\begin{action}
+Clear the workspace and load the file `landuse\_class.txt' located in the folder `\textbackslash{}ch04\_array\_ops\textbackslash{}proj03\_florac'. This text file contains remote sensing satellite data that has been classified into three landuse classes: 
+\end{action}
+
+
+\begin{table}[ht]
+\caption{Satellite image classification}
+\label{tab:satellite-florac}
+\vspace{-0.5em}
+\centering
+\begin{tabular}{|c|p{4cm}|}
+\hline
+\textbf{Original Value}&\textbf{Landuse}\\
+\hline
+0&meadows\\
+\hline
+1&evergreen forest\\
+\hline
+2&deciduous forest\\
+\hline
+\end{tabular}
+\end{table}
+
+
+
+\noindent When creating graphs or plots in \MATLAB{}, it is possible to display multiple plots in one figure. This is done by using the {\tt subplot(a,b,c)}\index{subplot@\texttt{subplot}} command, in which {\tt a}, {\tt b} and {\tt c} are integer scalars, and {\tt c} is less than or equal to the product ({\tt a*b}). Example:
+\begin{action}
+Create the utility matrices {\tt M = rand(10,10)} and {\tt K = rand(100,100)}. Then execute the following commands one by one at the \MATLAB{} prompt:
+\end{action}
+
+\prompt{figure}
+\prompt{subplot(1,2,1)}
+\prompt{imagesc(M)}
+\prompt{subplot(1,2,2)}
+\prompt{imagesc(K)}
+
+\noindent These commands divide the figure into smaller subplots. There is one 1 row and 2 columns of such subplots. After a subplot has been activated, the variables {\tt M} and {\tt K} are visualized using the {\tt imagesc} command.
+
+\begin{action}
+Why can't you use the plot command to visualize {\tt M} or {\tt K}?
+\end{action}
+
+
+\hintbox{In some ways, computer programming is like getting dressed: the order in which you do things can really make a difference!}
+
+\begin{action}
+Display the variable {\tt landuse\_class} in the first subplot of a new figure using the {\tt imagesc} and {\tt subplot(2,3,1)} command.
+\end{action}
+
+\begin{action}
+Use relational operators to create a 2-D logical array called {\tt Meadow} with ones on positions where {\tt landuse\_class} is equal to 0.
+\end{action}
+
+\begin{action}
+Plot the 2-D logical array {\tt Meadow} in subplot (2,3,4) using the {\tt imagesc} command.
+\end{action}
+
+\begin{action}
+Create logical arrays {\tt Evergreen} and {\tt Deciduous} the same way you've created {\tt Meadow}. Plot {\tt Evergreen} in subplot (2,3,5) and {\tt Deciduous} in subplot (2,3,6).
+\end{action}
+
+\noindent You will be calculating the transpiration for each landuse class for Florac for September 14$^{th}$, given the transpiration rates for each landuse type:
+
+
+\begin{table}[ht]
+\caption{Evapotranspiration efficiencies at Florac}
+\label{tab:evapotranspiration-florac}
+\vspace{-0.5em}
+\centering
+\begin{tabular}{|c|p{6cm}|}
+\hline
+\textbf{Land use type}&\textbf{Transpiration rate on the 14$^{th}$ of September [m$^3$/m$^2$/day]}\\
+\hline
+meadows&0.8$\times$10$^{-3}$\\
+\hline
+evergreen forest&1.5$\times$10$^{-3}$\\
+\hline
+deciduous forest&1.3$\times$10$^{-3}$\\
+\hline
+\end{tabular}
+\end{table}
+
+
+\hintbox{You can write base-10\index{base-10 exponentiation} exponents more easily using the {\tt e}\index{e!base-10 exponentiation@base-10 exponentiation}\index{exponentiation} notation. For instance, 5$\times$10$^{7}$ can be written as:
+\prompt{\tt 5e7}
+}%hintbox
+
+\noindent The grid cell dimensions are 25 meters in both the x and y directions. With the use of the logical arrays extracted earlier, it is now possible to calculate the contribution of each land use type to the total transpiration of this area.
+
+\begin{action}
+Create an 1x1 array containing the total transpiration for September 14$^{th}$ by the deciduous forest landuse class. 
+\end{action}
+
+\hintbox{
+Make it a habit to use variable names that are long enough to clarify the meaning, but preferably no longer than about 10--15 characters. 
+}%hintbox
+
+
+\begin{action}
+Calculate 1x1 arrays for the transpiration of the evergreen and meadow landuse classes in the same manner you calculated the transpiration for the deciduous landuse class.
+\end{action}
+
+\begin{action}
+Calculate the sum of all transpirations to get the total transpiration. If your answer is 4.1777e+004 m$^3$ then your answer is correct, otherwise try again.
+\end{action}
+
+
+\begin{action}
+Create a vector {\tt FTr} that contains the transpiration fraction each land use type contributes to the total transpiration.
+\end{action}
+
+\begin{action}
+Use the {\tt barh}\index{barh@\texttt{barh}} command to display the vector {\tt FTr} in horizontal bars in the third subplot on the first row of subplots. Use the {\tt xlabel} command to give the x-axis a representative label. If you like, you can print the figure you created for this project. 
+\end{action}
+
+
+\projectfooter{}
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>
+barbs.kml
+</name>
+<Placemark>
+<description>
+<![CDATA[]]>
+</description>
+<name>barb=&#0039;barbs\005nhemi01750225kts.dae&#0039;</name>
+<MultiGeometry>
+<Model>
+<altitudeMode>relativeToGround</altitudeMode>
+<Location>
+   <longitude>10</longitude>
+   <latitude>20</latitude>
+   <altitude>300</altitude>
+</Location>
+<Orientation>
+   <heading>270</heading>
+   <tilt>0</tilt>
+   <roll>0</roll>
+</Orientation>
+<Scale>
+   <x>100000</x>
+   <y>100000</y>
+   <z>100000</z>
+</Scale>
+<Link>
+   <href>barbs\005nhemi01750225kts.dae</href>
+</Link>
+</Model>
+
+
+
+</MultiGeometry>
+</Placemark>
+
+</Document>
+</kml>

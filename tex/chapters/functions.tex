@@ -1,0 +1,116 @@
+\chapter{Function m-files}
+\thispagestyle{fancy}
+\index{function m-files}
+\label{ch:functions}
+
+
+\MATLAB{} functions such as {\tt sin}, {\tt sqrt}, {\tt linspace} and {\tt find} take the variables you enter and perform the operations specified in these functions. The commands executed inside the function, as well as any intermediate variables created by these commands, are hidden. These variables exist in a part of the workspace that is separate from the top level (or `Base' workspace\index{base workspace}) that you have worked with so far. The lower level of the workspace is sometimes referred to as `function workspace'\index{function workspace}. In a way, function m-files are like a black box: all you see is the input that goes in and the output produced by the function. Functions provide a very powerful way to modularize your program. Modularity\index{modularity} is useful, because it lets you structure your computer program. Because variables that are created by a function `live' in a separate part of the workspace, they cannot interfere with variables outside the function workspace. This means that you can have a variable {\tt X} defined in the base workspace, as well as in the function workspace. Changing the value of {\tt X} in the function will not affect the value of {\tt X} in the base workspace, unless you explicitly tell \MATLAB{} that you want this by including {\tt X} as a output variable. 
+
+Function m-files are similar to \MATLAB{} script m-files\index{script m-files} in that they are text files with a~*.m extension. Also, like script m-files, function m-files are not entered in the command window but rather are external text files created with a text editor. However, a function m-file is different from a script m-file in that it begins with the `function definition line'\index{function definition line}, which has to be the first command line in the m-file, and has to start with the word ``function''\index{function@\texttt{function}}. This way, \MATLAB{} knows that the commands inside the m-file need to be executed in a separate workspace. 
+
+\vspace{1em}
+\noindent The function definition line always has the following structure (in order of appearance):
+\begin{enumerate}
+\item{the word {\tt function};}
+\item{zero, one, or more output variables. If there is more than one output variable, they need to be enclosed in square brackets `{\tt [ ]}'. Multiple variables need to be separated by commas;}
+\item{the is-equal sign `=';}
+\item{the name of the function. Its use here is only for completeness: When \MATLAB{} encounters a function name in a script m-file, it starts looking for an m-file by that name as it is known by the operating system (Windows, Linux etc). For instance, when you call the function {\tt mean}, \MATLAB{} uses the code from a file called `mean.m' residing somewhere on your harddisk. Because some operating systems are case-sensitive with respect to filenames, you may only use lowercase characters in your script and function filenames.}
+\item{the last part of the function definition line lists the input variables. This part may contain zero, one, or more input variables. The variables need to be enclosed in parentheses `{\tt ( )}'. Multiple variables need to be separated by commas.}
+\end{enumerate}
+\lstlistingname{}~\ref{list:function-definitions} gives a few examples of valid and invalid function definition lines.
+\lstinputlisting[float=ht,caption={Various function definitions for a file called `calcflow.m'},label=list:function-definitions]{./../m/function_definitions.m}
+
+
+
+\hintbox{Variables that are passed to a function, or that are returned by a function, are referred to as `input arguments'\index{input arguments}\index{arguments!input arguments} and `output arguments'\index{output arguments}\index{arguments!output arguments}, respectively.}
+
+
+\section{Writing function m-files}
+
+\begin{action}
+Study the function m-file `statsm.m' located in the folder `\textbackslash{}ch07\_functions' (see \lstlistingname{}~\ref{list:statsm}).
+\end{action}
+\lstinputlisting[float=p,caption={Contents of the file `\textbackslash{}ch07\_functions\textbackslash{}statsm.m'},label=list:statsm]{./../m/statsm.m}
+As can be seen in this example, the function definition line of a function m-file defines the m-file as a function, specifies its function name ({\tt statsm}), and defines its input ({\tt M}) and output ({\tt MaxM}, {\tt MinM}, {\tt MeanM}) variables. Following the function definition line is a sequence of comment lines, as indicated by the percent sign. The comment lines are meant to provide information about the function m-file. 
+
+
+\begin{action}
+Make sure you are in the right directory and type:
+\prompt{help statsm}
+\end{action}
+As you can see, \MATLAB{} returns the first block of comment lines upon typing {\tt help}. This is useful when you forgot how a particular function works; however, it does mean that you have to provide the help comment block in the m-files that you produce. Note: any blank lines before the {\tt \%} sign in this first comment line disqualifies it from being displayed. 
+
+Ideally, the first comment block should start with some keywords (line 2 in \lstlistingname{}~\ref{list:statsm}), followed by a line that states how the function must be called (line 3). The help comment should also contain a description of what it does (line 4), its input and output variables, including the array type, array dimensions, and a short description (lines 5--8). Additionally, it should contain information on the author of the file (line 10), the date (line 10), and the \MATLAB{} version that was used to develop the software (line 11).
+
+
+
+\section{Using a function in your script}
+
+In contrast to script m-files, a function m-file cannot run by itself. Instead, function m-files are usually called by a script m-file. The function's input variables must be present in the workspace before evaluating the function call\index{function call}. The input arguments can then be passed on to the function, where they get processed by the code in the function m-file. \lstlistingname~\ref{list:stats_lux} provides an example of how the function {\tt statsm} (see \lstlistingname~\ref{list:statsm}) may be used.
+
+\lstinputlisting[float=p,caption={Contents of the file `\textbackslash{}ch07\_functions\textbackslash{}stats\_lux.m'},label={list:stats_lux}]{./../m/stats_lux.m}
+
+
+
+\subsection{Workspaces and code re-use}
+\begin{action}
+Open `stats\_lux.m' in the editor and run it. After the program finishes, why isn't there a variable {\tt M} in the workspace?
+\end{action}
+Note that the arrays {\tt MaxLux}, {\tt MinLux}, {\tt MeanLux} and {\tt dem\_lux} in {\tt stats\_lux} contain the same information as {\tt MaxM}, {\tt MinM}, {\tt MeanM} and {\tt M} in {\tt statsm}. This is yet another useful feature of functions: because your function has its own workspace, it does not have to use the same variable names as your script. What's very important though, is that you have to pass your arguments in the right order for this to work correctly. The system of order-based argument passing allows you to re-use your code\index{code re-use}, without having to adapt the code inside the function. 
+\begin{action}
+Take 5 minutes to think about what you would have to change in {\tt statsm} if the arguments would always be called the same inside the function workspace, as compared to outside).
+\end{action}
+
+
+%When the main program is run from \MATLAB{}, it calls the function m-file {\tt statsm} that is embedded in its program (line 15) and then enters this function with the input variable dem\_lux . Directly after entering statsm, the information from dem_lux has entered the function's workspace and is now (locally) known as M. You can see this for yourself in the source code of 'statsm.m'. When all calculations in statsm are executed, the output (locally known as MaxM, MinM and MeanM ) is returned to the main program. Directly after leaving the function, the information from MaxM, MinM and MeanM is present in the workspace as MaxL, MinL and MeanL respectively.
+%
+%
+
+
+
+\begin{action}
+Create your own function m-file that extends {\tt statsm} by also calculating the standard deviation of all values in the matrix {\tt M}. Save the altered m-file as `\starred{name}\_statsm.m'. Adapt the script in accordance with your function. Save it as `\starred{name}\_stats\_lux.m'. (The correct answer for the standard deviation of the height in the study area Luxemburg is 64 m).
+\end{action}
+
+
+
+\noindent 
+\begin{minipage}[]{\textwidth}{\vspace{2em} \hrule \vspace{1em} \centering \begin{minipage}[]{0.8\textwidth}{\textsc{\textbf{Summary of why functions are useful\,}} \small 
+
+\vspace{0.5em}
+
+
+\noindent Many script m-files contain function m-files for certain calculations. Why use function m-files if you can simply enter the calculation command lines in the script m-file itself?
+
+\vspace{1em}
+\noindent Functions have some major advantages:
+\begin{enumerate}
+\item{In many cases, script m-files in which all calculations are entered in one file can become too long to read and difficult to understand. Those script m-files with thousands of command lines are far from user-friendly. The use of function m-files offers the possibility to organize the program, making it easier to understand.}
+\item{A function m-file can be called an infinite number of times within a program. Instead of writing command lines for similar calculations over and over in an m-file, one function m-file can perform these calculations every time with new input arguments and have the result returned to the main program through its output arguments.}
+\item{Variable names in the function m-file are local and will not appear in your workspace: they exist only within the function. You have almost complete freedom in naming input and output arguments in the function itself, just follow the guidelines in the TIP on page \pageref{tip:naming-conventions}. As indicated previously, use logical and easy-to-understand names for your input and output variable names.}
+\end{enumerate}
+
+
+}\end{minipage} \vspace{0.5em}
+\hrule \vspace{2em} \end{minipage}}
+
+
+
+
+
+\subsection{Multiple calls}
+
+The function definition line dictates the manner in which function m-files have to be incorporated into the main program. Suppose we have a main program in which a function m-file is used to convert degrees to radians (\lstlistingname{}~\ref{list:slope_dir_script}).
+
+\lstinputlisting[float=ht, caption={Contents of the file `\textbackslash{}ch07\_functions\textbackslash{}slope\_dir\_script.m'},label=list:slope_dir_script]{./../m/slope_dir_script.m}
+\lstinputlisting[float=ht, caption={Contents of the file `\textbackslash{}ch07\_functions\textbackslash{}conv\_deg2rad.m'},label=list:conv_deg2rad]{./../m/conv_deg2rad.m}\label{lab:conv_deg2rad}
+
+
+\noindent The main program {\tt slope\_dir\_script} defines the input variables to be processed by the function m-file {\tt conv\_deg2rad} (See \lstlistingname{}~\ref{list:conv_deg2rad}). Note that {\tt conv\_deg2rad} will convert any number to radians as long as the syntax is correct (that is, you didn't make a `spelling' or `grammar' mistake)\index{syntax}. For example, {\tt conv\_deg2rad} is used first to convert a direction, after which it is used a second time to convert a slope angle. Even though the meaning of {\tt DirDeg} is different from that of {\tt SlopeDeg}, it is not necessary to change the contents of `conv\_deg2rad.m'.
+
+
+\begin{action}
+Is it useful to include the {\tt clear} command in a function m-file? Why (not)?
+\end{action}
+
+\noindent So far, we have encountered functions that were called by scripts. However, functions can also be called by other functions. We will see an example of this during project \ref{pr:reisdorf}.

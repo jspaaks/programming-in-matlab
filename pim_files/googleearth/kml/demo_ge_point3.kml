@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>
+D:\code.google.com\googleearth\kml\demo_ge_point3.kml
+</name>
+<Placemark id="point">
+<name>
+
+</name>
+
+<visibility>
+1
+</visibility>
+
+<description>
+<![CDATA[<TABLE border="1"><TR><TD><B>Variable</B></TD><TD><B>Value</B></TD></TR><TR><TD>longitude [decimal degrees]</TD><TD>0</TD></TR><TR><TD>latitude [decimal degrees]</TD><TD>0</TD></TR><TR><TD>elevation [m]</TD><TD>0</TD></TR></TABLE>]]>
+</description>
+
+<IconStyle>
+<color>FF0080FF</color>
+<scale>1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+</Icon>
+</IconStyle><Style>
+<IconStyle>
+<color>FF0080FF</color>
+<scale>1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point id="point_point">
+<altitudeMode>relativeToGround</altitudeMode>
+<tessellate>
+1
+</tessellate>
+<extrude>0</extrude>
+
+<coordinates>
+0,0,0
+</coordinates>
+
+</Point>
+
+</Placemark>
+
+</Document>
+</kml>

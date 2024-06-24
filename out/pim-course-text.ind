@@ -1,0 +1,272 @@
+\begin{theindex}
+
+  \item $\sim$, \hyperpage{35}
+  \item *.avi file extension, \hyperpage{71}
+  \item *.kml, \hyperpage{80}
+  \item *.m file extension, \hyperpage{29}
+  \item \texttt{...}, \hyperpage{63}
+  \item \&, \hyperpage{35}
+  \item \mid, \hyperpage{35}
+  \item \texttt{\textquotesingle}, \hyperpage{20}
+  \item \texttt{\squote{alphaMatrix}}, \hyperpage{87}
+  \item \texttt{\squote{cLimHigh}}, \hyperpage{86}
+  \item \texttt{\squote{cLimLow}}, \hyperpage{86}
+  \item \texttt{\squote{compression}}, \hyperpage{70}
+  \item \texttt{\squote{delimiter}}, \hyperpage{63}
+  \item \texttt{\squote{fps}}, \hyperpage{70}
+  \item \texttt{\squote{headerlines}}, \hyperpage{63}
+  \item \texttt{\squote{iconColor}}, \hyperpage{85}
+  \item \texttt{\squote{iconScale}}, \hyperpage{85}
+  \item \texttt{\squote{iconURL}}, \hyperpage{83}
+  \item \texttt{\squote{timeSpanStart}}, \hyperpage{85}
+  \item \texttt{\squote{timeSpanStop}}, \hyperpage{85}
+
+  \indexspace
+
+  \item \texttt  {acos}, \hyperpage{39}
+  \item addition, \hyperpage{5}
+  \item \texttt{addpath}, \hyperpage{81}
+  \item animation, \hyperpage{70}
+  \item \texttt  {ans}, \hyperpage{21}
+  \item arguments
+    \subitem input arguments, \hyperpage{43}
+    \subitem output arguments, \hyperpage{43}
+  \item array classes, \hyperpage{8}
+  \item array operations, \hyperpage{19}
+  \item ASCII, \hyperpage{37}
+  \item \texttt  {asin}, \hyperpage{39}
+  \item \texttt  {atan}, \hyperpage{39}
+  \item \texttt{avifile}, \hyperpage{70}
+
+  \indexspace
+
+  \item \texttt{barh}, \hyperpage{28}
+  \item base workspace, \hyperpage{42}
+  \item base-10 exponentiation, \hyperpage{27}
+  \item base-$e$ exponentiation, \hyperpage{39}
+  \item bisection method, \hyperpage{67}
+  \item Boole, George, \hyperpage{24}
+  \item boolean, \hyperpage{24}
+  \item bug, \hyperpage{52}
+
+  \indexspace
+
+  \item capture, \hyperpage{70}
+  \item case-sensitive, \hyperpage{5}
+  \item \texttt  {ceil}, \hyperpage{40}
+  \item character, \hyperpage{8}
+  \item \texttt{clear}, \hyperpage{4}
+  \item \texttt{clear all}, \hyperpage{71}
+  \item code re-use, \hyperpage{44}
+  \item codec, \hyperpage{72}
+  \item \texttt{colorbar}, \hyperpage{23}, \hyperpage{32}
+  \item Command Window, \hyperpage{3}
+  \item comment, \hyperpage{29}
+  \item comment lines, \hyperpage{29}
+  \item concatenation, \hyperpage{14}, \hyperpage{34}
+  \item control flow, \hyperpage{48}
+  \item \texttt  {cos}, \hyperpage{39}
+
+  \indexspace
+
+  \item data types, \hyperpage{8}
+  \item debugging, \hyperpage{52}
+  \item \texttt{demo}, \hyperpage{11}
+  \item \texttt{disp}, \hyperpage{50}
+  \item division, \hyperpage{5}
+  \item \texttt{doc}, \hyperpage{17}
+
+  \indexspace
+
+  \item e
+    \subitem base-10 exponentiation, \hyperpage{27}
+    \subitem base-$e$ exponentiation, \hyperpage{39}
+  \item \texttt{else}, \hyperpage{51}
+  \item \texttt{elseif}, \hyperpage{51}
+  \item \texttt{end}, \hyperpage{48}, \hyperpage{50, 51}
+  \item \texttt  {exist}, \hyperpage{23}
+  \item \texttt  {exp} (base-$e$ exponentiation), \hyperpage{39}
+  \item exponential functions, \hyperpage{39}
+  \item exponentiation, \hyperpage{5}, \hyperpage{27}
+  \item \texttt{eye}, \hyperpage{19}
+
+  \indexspace
+
+  \item \texttt{false}, \hyperpage{24}
+  \item file extension, \hyperpage{37}
+  \item \texttt{find}, \hyperpage{25}
+  \item \texttt  {fix}, \hyperpage{40}
+  \item \texttt{fliplr}, \hyperpage{20}
+  \item \texttt{flipud}, \hyperpage{20}
+  \item floating point, \hyperpage{8}
+  \item \texttt  {floor}, \hyperpage{40}
+  \item \texttt{for}, \hyperpage{48}
+  \item \texttt{for}-loop, \hyperpage{48}
+  \item format string, \hyperpage{62}
+  \item frame, \hyperpage{70}
+  \item frame rate, \hyperpage{70}
+  \item frames per second, \hyperpage{70}
+  \item \texttt{function}, \hyperpage{42}
+  \item function call, \hyperpage{44}
+  \item function definition line, \hyperpage{42}
+  \item function m-files, \hyperpage{42}
+  \item function workspace, \hyperpage{42}
+
+  \indexspace
+
+  \item \texttt{ge\_colorbar}, \hyperpage{86}
+  \item \texttt{ge\_output}, \hyperpage{83}
+  \item \texttt{ge\_plot}, \hyperpage{83}
+  \item \texttt{ge\_point}, \hyperpage{82}
+  \item \texttt{googleearth}, \hyperpage{81}
+  \item GoogleEarth Toolbox for \MATLAB{}, \hyperpage{79}
+  \item GoogleEarth Viewer, \hyperpage{79}
+  \item Graphical User Interface, \hyperpage{6}
+  \item GUI, \hyperpage{6}
+
+  \indexspace
+
+  \item \texttt  {help}, \hyperpage{17}
+  \item \texttt{hold off}, \hyperpage{74}
+  \item \texttt{hold on}, \hyperpage{74}
+
+  \indexspace
+
+  \item \texttt{if}, \hyperpage{51}
+  \item \texttt{imagesc}, \hyperpage{23}, \hyperpage{68}
+  \item index, \hyperpage{10}
+  \item indices, \hyperpage{10}
+  \item \texttt{Inf}, \hyperpage{58}
+  \item input arguments, \hyperpage{43}
+  \item integer, \hyperpage{8}
+  \item \texttt{isinf}, \hyperpage{59}
+  \item \texttt{isnan}, \hyperpage{58}
+
+  \indexspace
+
+  \item \texttt{keyboard}, \hyperpage{53}
+  \item Keyhole Markup Language, \hyperpage{80}
+  \item KML, \hyperpage{80}
+
+  \indexspace
+
+  \item \texttt{legend}, \hyperpage{18}, \hyperpage{40}
+  \item \texttt{linspace}, \hyperpage{21}
+  \item \texttt{load}, \hyperpage{16}
+  \item \texttt  {log}, \hyperpage{39}
+  \item \texttt  {log10}, \hyperpage{39}
+  \item \texttt  {lookfor}, \hyperpage{17}
+  \item loop, \hyperpage{48}
+    \subitem for, \hyperpage{48}
+    \subitem while, \hyperpage{50}
+
+  \indexspace
+
+  \item m-file, \hyperpage{29}
+  \item matrix, \hyperpage{8}
+  \item \texttt{max}, \hyperpage{21}
+  \item \texttt{mean}, \hyperpage{21}
+  \item \texttt{median}, \hyperpage{21}
+  \item \texttt{min}, \hyperpage{21}
+  \item modularity, \hyperpage{42}
+  \item movie, \hyperpage{70}
+  \item moving average, \hyperpage{59}
+  \item multi-dimensional arrays, \hyperpage{8}
+  \item multiplication, \hyperpage{5}
+
+  \indexspace
+
+  \item \texttt{NaN}, \hyperpage{58}
+  \item \texttt{num2str}, \hyperpage{34}, \hyperpage{50}
+
+  \indexspace
+
+  \item \texttt{ones}, \hyperpage{19}
+  \item OpenGL, \hyperpage{80}
+  \item output arguments, \hyperpage{43}
+
+  \indexspace
+
+  \item parameter/value pairs, \hyperpage{63}
+  \item \textt{path}, \hyperpage{81}
+  \item \texttt{pause}, \hyperpage{53}
+  \item \texttt{pi}, \hyperpage{58}
+  \item \texttt{plot}, \hyperpage{16}
+  \item \texttt{prod}, \hyperpage{21}
+  \item prompt, \hyperpage{3}
+
+  \indexspace
+
+  \item \texttt{rand}, \hyperpage{19}
+  \item \texttt{randn}, \hyperpage{19}
+  \item relational operators, \hyperpage{24, 25}
+  \item \texttt{rose}, \hyperpage{64}
+  \item \texttt{rot90}, \hyperpage{20}
+  \item \texttt  {round}, \hyperpage{40}
+  \item rounding, \hyperpage{40}
+  \item run-time error, \hyperpage{52}
+
+  \indexspace
+
+  \item \texttt{save}, \hyperpage{18}, \hyperpage{37}
+  \item scalar, \hyperpage{8}
+  \item script, \hyperpage{29}
+  \item script m-files, \hyperpage{42}
+  \item \texttt{semilogy}, \hyperpage{40}
+  \item \texttt  {sin}, \hyperpage{39}
+  \item \texttt  {size}, \hyperpage{8}
+  \item \texttt  {sqrt}, \hyperpage{39}
+  \item \texttt{sqrt}, \hyperpage{4}
+  \item \texttt{std}, \hyperpage{21}
+  \item string, \hyperpage{8}
+  \item \texttt{subplot}, \hyperpage{26}
+  \item subscripts, \hyperpage{10}
+  \item subtraction, \hyperpage{5}
+  \item \texttt{sum}, \hyperpage{21}
+  \item syntax, \hyperpage{47}
+  \item syntax error, \hyperpage{52}
+
+  \indexspace
+
+  \item \texttt  {tan}, \hyperpage{39}
+  \item \texttt{textread}, \hyperpage{62}
+  \item \texttt{title}, \hyperpage{17}
+  \item transparency, \hyperpage{87}
+  \item \texttt{transpose}, \hyperpage{20}
+  \item trigonometrical functions, \hyperpage{39}
+  \item \texttt{true}, \hyperpage{24}
+
+  \indexspace
+
+  \item utility matrices, \hyperpage{19}
+
+  \indexspace
+
+  \item vector, \hyperpage{8}
+  \item vectorization, \hyperpage{49}
+
+  \indexspace
+
+  \item \texttt{warning}, \hyperpage{73}
+  \item \texttt  {which}, \hyperpage{23}
+  \item \texttt{while}, \hyperpage{50}
+  \item \texttt{while}-loop, \hyperpage{48}
+  \item \texttt{who}, \hyperpage{4}
+  \item \texttt{whos}, \hyperpage{4}
+  \item work directory, \hyperpage{3}
+
+  \indexspace
+
+  \item \texttt{xlabel}, \hyperpage{17}
+  \item XML, \hyperpage{80}
+  \item \texttt{xor}, \hyperpage{35}
+
+  \indexspace
+
+  \item \texttt{ylabel}, \hyperpage{17}
+
+  \indexspace
+
+  \item \texttt{zeros}, \hyperpage{19}
+
+\end{theindex}
